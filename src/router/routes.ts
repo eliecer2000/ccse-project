@@ -17,9 +17,19 @@ const routes: RouteRecordRaw[] = [
     children: [{ path: '', component: () => import('src/pages/IndexTasks.vue') }],
   },
   {
+    path: '/exam',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [{ path: '', component: () => import('src/pages/IndexExam.vue') }],
+  },
+  {
     path: '/questions',
     component: () => import('layouts/MainLayout.vue'),
     children: [{ path: ':id', component: () => import('src/pages/IndexQuestions.vue') }],
+  },
+  {
+    path: '/exam-questions',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [{ path: ':id', component: () => import('src/pages/IndexExamQuestions.vue') }],
   },
 
   // {

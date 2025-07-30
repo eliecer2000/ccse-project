@@ -188,3 +188,243 @@ export const deleteQuestions = /* GraphQL */ `mutation DeleteQuestions(
   APITypes.DeleteQuestionsMutationVariables,
   APITypes.DeleteQuestionsMutation
 >;
+export const createExam = /* GraphQL */ `mutation CreateExam(
+  $input: CreateExamInput!
+  $condition: ModelExamConditionInput
+) {
+  createExam(input: $input, condition: $condition) {
+    id
+    userId
+    status
+    totalSuccess
+    totalFail
+    examQuestions {
+      items {
+        code
+        examId
+        statusQuestionExam
+        responseAsk
+        question {
+          code
+          task
+          text
+          choices {
+            id
+            text
+            __typename
+          }
+          correctChoiceId
+          topicTags
+          createdAt
+          updatedAt
+          __typename
+        }
+        createdAt
+        updatedAt
+        __typename
+      }
+      nextToken
+      __typename
+    }
+    createdAt
+    updatedAt
+    __typename
+  }
+}
+` as GeneratedMutation<
+  APITypes.CreateExamMutationVariables,
+  APITypes.CreateExamMutation
+>;
+export const updateExam = /* GraphQL */ `mutation UpdateExam(
+  $input: UpdateExamInput!
+  $condition: ModelExamConditionInput
+) {
+  updateExam(input: $input, condition: $condition) {
+    id
+    userId
+    status
+    totalSuccess
+    totalFail
+    examQuestions {
+      items {
+        code
+        examId
+        statusQuestionExam
+        responseAsk
+        question {
+          code
+          task
+          text
+          choices {
+            id
+            text
+            __typename
+          }
+          correctChoiceId
+          topicTags
+          createdAt
+          updatedAt
+          __typename
+        }
+        createdAt
+        updatedAt
+        __typename
+      }
+      nextToken
+      __typename
+    }
+    createdAt
+    updatedAt
+    __typename
+  }
+}
+` as GeneratedMutation<
+  APITypes.UpdateExamMutationVariables,
+  APITypes.UpdateExamMutation
+>;
+export const deleteExam = /* GraphQL */ `mutation DeleteExam(
+  $input: DeleteExamInput!
+  $condition: ModelExamConditionInput
+) {
+  deleteExam(input: $input, condition: $condition) {
+    id
+    userId
+    status
+    totalSuccess
+    totalFail
+    examQuestions {
+      items {
+        code
+        examId
+        statusQuestionExam
+        responseAsk
+        question {
+          code
+          task
+          text
+          choices {
+            id
+            text
+            __typename
+          }
+          correctChoiceId
+          topicTags
+          createdAt
+          updatedAt
+          __typename
+        }
+        createdAt
+        updatedAt
+        __typename
+      }
+      nextToken
+      __typename
+    }
+    createdAt
+    updatedAt
+    __typename
+  }
+}
+` as GeneratedMutation<
+  APITypes.DeleteExamMutationVariables,
+  APITypes.DeleteExamMutation
+>;
+export const createExamQuestions = /* GraphQL */ `mutation CreateExamQuestions(
+  $input: CreateExamQuestionsInput!
+  $condition: ModelExamQuestionsConditionInput
+) {
+  createExamQuestions(input: $input, condition: $condition) {
+    code
+    examId
+    statusQuestionExam
+    responseAsk
+    question {
+      code
+      task
+      text
+      choices {
+        id
+        text
+        __typename
+      }
+      correctChoiceId
+      topicTags
+      createdAt
+      updatedAt
+      __typename
+    }
+    createdAt
+    updatedAt
+    __typename
+  }
+}
+` as GeneratedMutation<
+  APITypes.CreateExamQuestionsMutationVariables,
+  APITypes.CreateExamQuestionsMutation
+>;
+export const updateExamQuestions = /* GraphQL */ `mutation UpdateExamQuestions(
+  $input: UpdateExamQuestionsInput!
+  $condition: ModelExamQuestionsConditionInput
+) {
+  updateExamQuestions(input: $input, condition: $condition) {
+    code
+    examId
+    statusQuestionExam
+    responseAsk
+    question {
+      code
+      task
+      text
+      choices {
+        id
+        text
+        __typename
+      }
+      correctChoiceId
+      topicTags
+      createdAt
+      updatedAt
+      __typename
+    }
+    createdAt
+    updatedAt
+    __typename
+  }
+}
+` as GeneratedMutation<
+  APITypes.UpdateExamQuestionsMutationVariables,
+  APITypes.UpdateExamQuestionsMutation
+>;
+export const deleteExamQuestions = /* GraphQL */ `mutation DeleteExamQuestions(
+  $input: DeleteExamQuestionsInput!
+  $condition: ModelExamQuestionsConditionInput
+) {
+  deleteExamQuestions(input: $input, condition: $condition) {
+    code
+    examId
+    statusQuestionExam
+    responseAsk
+    question {
+      code
+      task
+      text
+      choices {
+        id
+        text
+        __typename
+      }
+      correctChoiceId
+      topicTags
+      createdAt
+      updatedAt
+      __typename
+    }
+    createdAt
+    updatedAt
+    __typename
+  }
+}
+` as GeneratedMutation<
+  APITypes.DeleteExamQuestionsMutationVariables,
+  APITypes.DeleteExamQuestionsMutation
+>;

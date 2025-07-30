@@ -73,7 +73,11 @@ Esta licencia no puede ser modificada sin el consentimiento expreso por escrito 
 
 Esta licencia se rige por las leyes de España, sin tener en cuenta sus disposiciones sobre conflictos de leyes.
 
-### 10. CONTACTO
+### 10. DONACIONES
+
+Las donaciones voluntarias para el mantenimiento y desarrollo del proyecto están permitidas y no constituyen uso comercial. Las donaciones son opcionales y no otorgan derechos adicionales sobre el Software.
+
+### 11. CONTACTO
 
 Para consultas sobre esta licencia o permisos especiales:
 

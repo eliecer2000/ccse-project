@@ -1,22 +1,22 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-ccseproject-dev-9c9c5-authRole",
-      "UnauthRoleArn": "arn:aws:iam::547960255914:role/amplify-ccseproject-dev-9c9c5-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::547960255914:role/amplify-ccseproject-dev-9c9c5-authRole",
+      "AuthRoleName": "amplify-ccseproject-dev-66333-authRole",
+      "UnauthRoleArn": "arn:aws:iam::547960255914:role/amplify-ccseproject-dev-66333-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::547960255914:role/amplify-ccseproject-dev-66333-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-ccseproject-dev-9c9c5-deployment",
-      "UnauthRoleName": "amplify-ccseproject-dev-9c9c5-unauthRole",
-      "StackName": "amplify-ccseproject-dev-9c9c5",
-      "StackId": "arn:aws:cloudformation:us-east-1:547960255914:stack/amplify-ccseproject-dev-9c9c5/86f3fe20-6cd0-11f0-85db-12578591e4e7",
-      "AmplifyAppId": "dbqrdy4e8r934"
+      "DeploymentBucketName": "amplify-ccseproject-dev-66333-deployment",
+      "UnauthRoleName": "amplify-ccseproject-dev-66333-unauthRole",
+      "StackName": "amplify-ccseproject-dev-66333",
+      "StackId": "arn:aws:cloudformation:us-east-1:547960255914:stack/amplify-ccseproject-dev-66333/37254070-6d43-11f0-a7d7-120e90b12309",
+      "AmplifyAppId": "d1rijforqbi4zr"
     },
     "categories": {
-      "api": {
-        "ccseproject": {}
-      },
       "hosting": {
         "S3AndCloudFront": {}
+      },
+      "api": {
+        "ccseproject": {}
       }
     }
   }

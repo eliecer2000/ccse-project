@@ -25,7 +25,7 @@
           </q-btn>
         </div>
         <div class="col text-center">
-          <q-btn flat no-caps class="text-center">
+          <q-btn flat no-caps class="text-center" to="/exam">
             <q-icon size="3em" name="assignment" />
             <div class="text-center">Examen</div>
           </q-btn>

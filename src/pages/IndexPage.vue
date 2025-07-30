@@ -53,8 +53,7 @@
 </template>
 
 <script setup lang="ts">
-import { useQuasar } from 'quasar';
-import { uid } from 'quasar';
+import { useQuasar, uid } from 'quasar';
 
 const $q = useQuasar();
 

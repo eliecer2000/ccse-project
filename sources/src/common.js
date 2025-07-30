@@ -7,7 +7,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 export function loadConfig() {
-  const cfg = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'aws-exports.json'), 'utf-8'));
+  const cfg = JSON.parse(
+    fs.readFileSync(path.join(__dirname, '../..', 'src/amplifyconfiguration.json'), 'utf-8'),
+  );
   if (!cfg.aws_appsync_graphqlEndpoint || !cfg.aws_appsync_apiKey) {
     throw new Error('Missing AppSync endpoint or API key in aws-exports.json');
   }
