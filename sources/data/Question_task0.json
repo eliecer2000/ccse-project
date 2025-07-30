@@ -1,0 +1,2521 @@
+[
+  {
+    "code": 1001,
+    "task": 1,
+    "text": "España es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "una monarquía parlamentaria"
+      },
+      {
+        "id": "B",
+        "text": "una república federal"
+      },
+      {
+        "id": "C",
+        "text": "una monarquía federal"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1002,
+    "task": 1,
+
+    "text": "La ley fundamental de España se llama…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Constitución"
+      },
+      {
+        "id": "B",
+        "text": "Ley básica"
+      },
+      {
+        "id": "C",
+        "text": "Ordenamiento esencial"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1003,
+    "task": 1,
+
+    "text": "Según la Constitución española, la soberanía nacional reside en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el pueblo español"
+      },
+      {
+        "id": "B",
+        "text": "el Gobierno del Estado"
+      },
+      {
+        "id": "C",
+        "text": "el Congreso de los Diputados"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1004,
+    "task": 1,
+
+    "text": "El Instituto de las Mujeres es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "una institución europea"
+      },
+      {
+        "id": "B",
+        "text": "un organismo español"
+      },
+      {
+        "id": "C",
+        "text": "una ONG"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1005,
+    "task": 1,
+
+    "text": "¿Cuántas religiones oficiales hay en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ninguna"
+      },
+      {
+        "id": "B",
+        "text": "Una"
+      },
+      {
+        "id": "C",
+        "text": "Dos"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1006,
+    "task": 1,
+
+    "text": "El castellano o español es lengua oficial…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "en toda España"
+      },
+      {
+        "id": "B",
+        "text": "solo donde no hay otras lenguas"
+      },
+      {
+        "id": "C",
+        "text": "en toda la Península Ibérica"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1007,
+    "task": 1,
+
+    "text": "¿Cuál de estas fuerzas de seguridad es de ámbito autonómico?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Policía local"
+      },
+      {
+        "id": "B",
+        "text": "Guardia Civil"
+      },
+      {
+        "id": "C",
+        "text": "Policía Foral de Navarra"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1008,
+    "task": 1,
+
+    "text": "¿Qué fuerza de seguridad está en toda España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Policía Foral de Navarra"
+      },
+      {
+        "id": "B",
+        "text": "El Cuerpo Nacional de Policía"
+      },
+      {
+        "id": "C",
+        "text": "Los Mossos d’Esquadra"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1009,
+    "task": 1,
+
+    "text": "En la Constitución se establece la separación de poderes: el poder ejecutivo, el legislativo y el…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "judicial"
+      },
+      {
+        "id": "B",
+        "text": "informativo"
+      },
+      {
+        "id": "C",
+        "text": "político"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1010,
+    "task": 1,
+
+    "text": "La bandera de España debe utilizarse…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "solo los días de fiesta oficial"
+      },
+      {
+        "id": "B",
+        "text": "en todos los edificios públicos"
+      },
+      {
+        "id": "C",
+        "text": "solo en actos del Gobierno español"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1011,
+    "task": 1,
+
+    "text": "¿Quién fue el primer rey de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Fernando VII"
+      },
+      {
+        "id": "B",
+        "text": "Carlos I"
+      },
+      {
+        "id": "C",
+        "text": "Juan Carlos I"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1012,
+    "task": 1,
+
+    "text": "La gestión de la sanidad es competencia de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el Estado"
+      },
+      {
+        "id": "B",
+        "text": "las comunidades autónomas"
+      },
+      {
+        "id": "C",
+        "text": "los ayuntamientos"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1013,
+    "task": 1,
+
+    "text": "¿Quién fue el primer presidente del Gobierno de España en democracia?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mariano Rajoy"
+      },
+      {
+        "id": "B",
+        "text": "Adolfo Suárez"
+      },
+      {
+        "id": "C",
+        "text": "José Luis Rodríguez Zapatero"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1014,
+    "task": 1,
+
+    "text": "¿Cuál de estos organismos se encarga de interpretar la Constitución?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El Poder Constitucional"
+      },
+      {
+        "id": "B",
+        "text": "El Tribunal Constitucional"
+      },
+      {
+        "id": "C",
+        "text": "El Consejo General del Poder Judicial"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1015,
+    "task": 1,
+
+    "text": "¿Quién modera el funcionamiento de las instituciones españolas?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El presidente del Gobierno"
+      },
+      {
+        "id": "B",
+        "text": "El rey"
+      },
+      {
+        "id": "C",
+        "text": "El director de la Real Academia Española"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1016,
+    "task": 1,
+
+    "text": "¿Cómo se llama la cámara de representación territorial en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Senado"
+      },
+      {
+        "id": "B",
+        "text": "Diputación permanente"
+      },
+      {
+        "id": "C",
+        "text": "Congreso de los Diputados"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1017,
+    "task": 1,
+
+    "text": "¿Cuántas ciudades autónomas hay en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "17"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "50"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1018,
+    "task": 1,
+
+    "text": "¿Cómo se aprobó la Constitución?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Por ley"
+      },
+      {
+        "id": "B",
+        "text": "En referéndum"
+      },
+      {
+        "id": "C",
+        "text": "Lo mandó el rey"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1019,
+    "task": 1,
+
+    "text": "¿Cómo se llama la ley más importante de cada comunidad autónoma?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Estatuto de Autonomía"
+      },
+      {
+        "id": "B",
+        "text": "Normativa autonómica"
+      },
+      {
+        "id": "C",
+        "text": "Ley de la comunidad"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1020,
+    "task": 1,
+
+    "text": "Las instalaciones culturales y deportivas públicas son competencia del…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ayuntamiento"
+      },
+      {
+        "id": "B",
+        "text": "Ministerio de Educación, Formación Profesional y Deportes"
+      },
+      {
+        "id": "C",
+        "text": "Ministerio de Igualdad"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1021,
+    "task": 1,
+
+    "text": "¿Quién dirige la administración militar de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Los ayuntamientos"
+      },
+      {
+        "id": "B",
+        "text": "El Gobierno"
+      },
+      {
+        "id": "C",
+        "text": "Las Cortes Generales"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1022,
+    "task": 1,
+
+    "text": "¿Qué hay en las islas Baleares, en vez de diputaciones?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cabildos"
+      },
+      {
+        "id": "B",
+        "text": "Consejos insulares"
+      },
+      {
+        "id": "C",
+        "text": "Centros de diputados"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1023,
+    "task": 1,
+
+    "text": "¿Qué ciudad tiene más habitantes?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sevilla"
+      },
+      {
+        "id": "B",
+        "text": "Barcelona"
+      },
+      {
+        "id": "C",
+        "text": "Zaragoza"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1024,
+    "task": 1,
+
+    "text": "Las Cortes Generales representan…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "al pueblo español"
+      },
+      {
+        "id": "B",
+        "text": "a los partidos políticos"
+      },
+      {
+        "id": "C",
+        "text": "a los ministros"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1025,
+    "task": 1,
+
+    "text": "El Congreso de los Diputados y el Senado constituyen el poder…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "ejecutivo"
+      },
+      {
+        "id": "B",
+        "text": "legislativo"
+      },
+      {
+        "id": "C",
+        "text": "judicial"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1026,
+    "task": 1,
+
+    "text": "¿Qué ley dicta el Gobierno en casos de especial urgencia?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El decreto ley"
+      },
+      {
+        "id": "B",
+        "text": "La ley ordinaria"
+      },
+      {
+        "id": "C",
+        "text": "la ley orgánica"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1027,
+    "task": 1,
+
+    "text": "¿Cuántas comunidades autónomas hay en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "17"
+      },
+      {
+        "id": "C",
+        "text": "25"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1028,
+    "task": 1,
+
+    "text": "Los colores de la bandera española son…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "blanco y rojo"
+      },
+      {
+        "id": "B",
+        "text": "rojo y amarillo"
+      },
+      {
+        "id": "C",
+        "text": "amarillo y blanco"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1029,
+    "task": 1,
+
+    "text": "¿Dónde está la sede del Gobierno de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En Madrid"
+      },
+      {
+        "id": "B",
+        "text": "En Barcelona"
+      },
+      {
+        "id": "C",
+        "text": "En Sevilla"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1030,
+    "task": 1,
+
+    "text": "La bandera azul con 12 estrellas amarillas en círculo es la bandera de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la Unión Europea"
+      },
+      {
+        "id": "B",
+        "text": "El Parlamento Europeo"
+      },
+      {
+        "id": "C",
+        "text": "la Comisión de Europa"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1031,
+    "task": 1,
+
+    "text": "En las elecciones municipales se vota a…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "alcaldes y concejales"
+      },
+      {
+        "id": "B",
+        "text": "ministros y ministras"
+      },
+      {
+        "id": "C",
+        "text": "diputados y senadores"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1032,
+    "task": 1,
+
+    "text": "¿Qué lengua es oficial en el País Vasco?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El bable"
+      },
+      {
+        "id": "B",
+        "text": "El aragonés"
+      },
+      {
+        "id": "C",
+        "text": "El euskera"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1033,
+    "task": 1,
+
+    "text": "Todos los españoles tienen el deber de conocer la lengua…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "autonómica del Estado"
+      },
+      {
+        "id": "B",
+        "text": "oficial del Estado"
+      },
+      {
+        "id": "C",
+        "text": "local del Estado"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1034,
+    "task": 1,
+
+    "text": "El aranés es una lengua cooficial que se habla en un pequeño territorio de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cataluña"
+      },
+      {
+        "id": "B",
+        "text": "la Rioja"
+      },
+      {
+        "id": "C",
+        "text": "Aragón"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1035,
+    "task": 1,
+
+    "text": "Las instituciones de una comunidad autónoma son: la asamblea legislativa, el consejo de gobierno y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la diputación"
+      },
+      {
+        "id": "B",
+        "text": "el presidente"
+      },
+      {
+        "id": "C",
+        "text": "el delegado de gobierno"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1036,
+    "task": 1,
+
+    "text": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El gallego"
+      },
+      {
+        "id": "B",
+        "text": "El aragonés"
+      },
+      {
+        "id": "C",
+        "text": "El murciano"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1037,
+    "task": 1,
+
+    "text": "¿Qué institución tiene como fin la promoción de la enseñanza de la lengua española y la difusión de la cultura en español?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El Instituto Nacional de Administración Pública"
+      },
+      {
+        "id": "B",
+        "text": "El Instituto Nacional de Estadística"
+      },
+      {
+        "id": "C",
+        "text": "El Instituto Cervantes"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1038,
+    "task": 1,
+
+    "text": "¿Cuál de los siguientes organismos trabaja para conseguir la normalización lingüística?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El Institut Ramon Llull"
+      },
+      {
+        "id": "B",
+        "text": "El Instituto Cervantes"
+      },
+      {
+        "id": "C",
+        "text": "La Real Academia Española"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1039,
+    "task": 1,
+
+    "text": "¿Dónde vive el presidente del Gobierno?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el Palacio Real"
+      },
+      {
+        "id": "B",
+        "text": "En el Palacio de la Zarzuela"
+      },
+      {
+        "id": "C",
+        "text": "En el Palacio de la Moncloa"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1040,
+    "task": 1,
+
+    "text": "¿Cuál de los siguientes cuerpos forma parte de las Fuerzas Armadas de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Policía Foral"
+      },
+      {
+        "id": "B",
+        "text": "La Guardia Civil"
+      },
+      {
+        "id": "C",
+        "text": "El Ejército del Aire"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1041,
+    "task": 1,
+
+    "text": "¿Quiénes forman parte del Gobierno?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Los ministros"
+      },
+      {
+        "id": "B",
+        "text": "Los concejales"
+      },
+      {
+        "id": "C",
+        "text": "Los alcaldes"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1042,
+    "task": 1,
+
+    "text": "España es un…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "estado social y democrático de Derecho"
+      },
+      {
+        "id": "B",
+        "text": "estado libre asociado"
+      },
+      {
+        "id": "C",
+        "text": "estado confederado"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1043,
+    "task": 1,
+
+    "text": "¿Cuál de las siguientes siglas corresponde a un partido político?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "PP"
+      },
+      {
+        "id": "B",
+        "text": "PIB"
+      },
+      {
+        "id": "C",
+        "text": "UE"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1044,
+    "task": 1,
+
+    "text": "¿Qué título tiene la futura reina, hija del rey?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Princesa de Asturias"
+      },
+      {
+        "id": "B",
+        "text": "Princesa de Aragón"
+      },
+      {
+        "id": "C",
+        "text": "Duquesa de Alba"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1045,
+    "task": 1,
+
+    "text": "¿Con qué rey se restaura la democracia en España después del régimen de Franco?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Con Carlos III"
+      },
+      {
+        "id": "B",
+        "text": "Con Alfonso XIII"
+      },
+      {
+        "id": "C",
+        "text": "Con Juan Carlos I"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1046,
+    "task": 1,
+
+    "text": "¿En qué año se aprobó la Constitución española?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En 1957"
+      },
+      {
+        "id": "B",
+        "text": "En 1978"
+      },
+      {
+        "id": "C",
+        "text": "En 2001"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1047,
+    "task": 1,
+
+    "text": "¿Cuántas comunidades autónomas tienen su propia bandera?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ninguna"
+      },
+      {
+        "id": "B",
+        "text": "Todas"
+      },
+      {
+        "id": "C",
+        "text": "Las que tienen una lengua cooficial"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1048,
+    "task": 1,
+
+    "text": "¿Qué organismo oficial atiende las quejas de los ciudadanos por el mal funcionamiento de las administraciones?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Oficina de Atención al Consumidor"
+      },
+      {
+        "id": "B",
+        "text": "La Policía Nacional"
+      },
+      {
+        "id": "C",
+        "text": "El Defensor del Pueblo"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1049,
+    "task": 1,
+
+    "text": "¿Cuántas firmas, como mínimo, deben recoger los ciudadanos para poder presentar una proposición de ley?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "250 000"
+      },
+      {
+        "id": "B",
+        "text": "100 000"
+      },
+      {
+        "id": "C",
+        "text": "500 000"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1050,
+    "task": 1,
+
+    "text": "¿A cuál de estas organizaciones internacionales pertenece España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Al Mercado Común del Sur (MERCOSUR)"
+      },
+      {
+        "id": "B",
+        "text": "A la Organización de las Naciones Unidas (ONU)"
+      },
+      {
+        "id": "C",
+        "text": "A la Unión Económica Euroasiática (UEE)"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1051,
+    "task": 1,
+
+    "text": "En la organización de la Administración se distinguen tres niveles: central, autonómica y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "estatal"
+      },
+      {
+        "id": "B",
+        "text": "regional"
+      },
+      {
+        "id": "C",
+        "text": "local"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1052,
+    "task": 1,
+
+    "text": "El poder legislativo corresponde...",
+    "choices": [
+      {
+        "id": "A",
+        "text": "al presidente y los ministros"
+      },
+      {
+        "id": "B",
+        "text": "a los jueces y magistrados"
+      },
+      {
+        "id": "C",
+        "text": "a los diputados y senadores"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1053,
+    "task": 1,
+
+    "text": "¿Dónde vive el rey?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el Palacio de la Moneda"
+      },
+      {
+        "id": "B",
+        "text": "En el Palacio de la Zarzuela"
+      },
+      {
+        "id": "C",
+        "text": "En el Palacio de la Moncloa"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1054,
+    "task": 1,
+
+    "text": "El nombre oficial del parlamento español es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cortes Generales"
+      },
+      {
+        "id": "B",
+        "text": "Congreso de los Diputados"
+      },
+      {
+        "id": "C",
+        "text": "Senado"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1055,
+    "task": 1,
+
+    "text": "El Gobierno está formado por el presidente, uno o más vicepresidentes y los…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "concejales"
+      },
+      {
+        "id": "B",
+        "text": "ministros"
+      },
+      {
+        "id": "C",
+        "text": "gobernadores"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1056,
+    "task": 1,
+
+    "text": "¿Quién puede reinar en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Solo los hombres"
+      },
+      {
+        "id": "B",
+        "text": "Solo las mujeres"
+      },
+      {
+        "id": "C",
+        "text": "Tanto los hombres como las mujeres"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1057,
+    "task": 1,
+
+    "text": "El Tribunal de Cuentas depende de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la Presidencia del Gobierno"
+      },
+      {
+        "id": "B",
+        "text": "las Cortes Generales"
+      },
+      {
+        "id": "C",
+        "text": "el Ministerio de Hacienda"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1058,
+    "task": 1,
+
+    "text": "¿Quién es la tercera autoridad del Estado, después del rey y el presidente del Gobierno?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El presidente del Senado"
+      },
+      {
+        "id": "B",
+        "text": "El ministro de Economía"
+      },
+      {
+        "id": "C",
+        "text": "El presidente del Congreso de los Diputados"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1059,
+    "task": 1,
+
+    "text": "¿Qué lengua cooficial se habla en las islas Baleares?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Gallego"
+      },
+      {
+        "id": "B",
+        "text": "Catalán"
+      },
+      {
+        "id": "C",
+        "text": "Euskera"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1060,
+    "task": 1,
+
+    "text": "La Constitución defiende valores tales como la libertad, la igualdad, el pluralismo político y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la justicia"
+      },
+      {
+        "id": "B",
+        "text": "la solidaridad"
+      },
+      {
+        "id": "C",
+        "text": "la fraternidad"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1061,
+    "task": 1,
+
+    "text": "¿Cuántos kilómetros cuadrados tiene España, más o menos?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "100 000"
+      },
+      {
+        "id": "B",
+        "text": "500 000"
+      },
+      {
+        "id": "C",
+        "text": "1 000 000"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1062,
+    "task": 1,
+
+    "text": "¿Cuántos millones de habitantes tiene España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "35 millones"
+      },
+      {
+        "id": "B",
+        "text": "48 millones"
+      },
+      {
+        "id": "C",
+        "text": "62 millones"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1063,
+    "task": 1,
+
+    "text": "¿Cuál de estos es un órgano consultivo del Gobierno de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El Parlamento Europeo"
+      },
+      {
+        "id": "B",
+        "text": "El Consejo de Estado"
+      },
+      {
+        "id": "C",
+        "text": "El Tribunal Constitucional"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1064,
+    "task": 1,
+
+    "text": "¿Quién dirige la política interior y exterior de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El rey"
+      },
+      {
+        "id": "B",
+        "text": "El Gobierno"
+      },
+      {
+        "id": "C",
+        "text": "El Congreso de los Diputados"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1065,
+    "task": 1,
+
+    "text": "El Defensor del Pueblo depende de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el Consejo de Ministros"
+      },
+      {
+        "id": "B",
+        "text": "el Tribunal de Cuentas"
+      },
+      {
+        "id": "C",
+        "text": "las Cortes Generales"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1066,
+    "task": 1,
+
+    "text": "El Instituto Etxepare tiene como misión la difusión del…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "euskera y la cultura vasca"
+      },
+      {
+        "id": "B",
+        "text": "bable y la cultura cántabra"
+      },
+      {
+        "id": "C",
+        "text": "gallego y la cultura galaica"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1067,
+    "task": 1,
+
+    "text": "La Comunidad Iberoamericana de Naciones está formada por…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "22 países de América y de Europa"
+      },
+      {
+        "id": "B",
+        "text": "América del Sur y España"
+      },
+      {
+        "id": "C",
+        "text": "todos los países donde se habla español"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1068,
+    "task": 1,
+
+    "text": "La Secretaría Xeral de Política Lingüística difunde y promociona la lengua y la cultura…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "catalanas"
+      },
+      {
+        "id": "B",
+        "text": "gallegas"
+      },
+      {
+        "id": "C",
+        "text": "vascas"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1069,
+    "task": 1,
+
+    "text": "¿Cómo se llama el rey de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Juan Carlos I"
+      },
+      {
+        "id": "B",
+        "text": "Felipe VI"
+      },
+      {
+        "id": "C",
+        "text": "Alfonso XIII"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1070,
+    "task": 1,
+
+    "text": "¿Cómo se llama el órgano de gobierno de los jueces y magistrados?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Tribunal Supremo"
+      },
+      {
+        "id": "B",
+        "text": "Consejo General del Poder Judicial"
+      },
+      {
+        "id": "C",
+        "text": "Consejo de Estado"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1071,
+    "task": 1,
+
+    "text": "¿Quién aprueba los presupuestos generales del Estado?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Las Cortes Generales"
+      },
+      {
+        "id": "B",
+        "text": "La Junta Electoral Central"
+      },
+      {
+        "id": "C",
+        "text": "El rey"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1072,
+    "task": 1,
+
+    "text": "La Constitución española es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la ley fundamental"
+      },
+      {
+        "id": "B",
+        "text": "parte de otra ley"
+      },
+      {
+        "id": "C",
+        "text": "una ley secundaria"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1073,
+    "task": 1,
+
+    "text": "Las Cortes Generales están compuestas por el Senado y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el Congreso de los Diputados"
+      },
+      {
+        "id": "B",
+        "text": "el Tribunal Supremo"
+      },
+      {
+        "id": "C",
+        "text": "el Consejo de Estado"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1074,
+    "task": 1,
+
+    "text": "¿Quién elabora las leyes?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El poder ejecutivo"
+      },
+      {
+        "id": "B",
+        "text": "El poder legislativo"
+      },
+      {
+        "id": "C",
+        "text": "El poder judicial"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1075,
+    "task": 1,
+
+    "text": "La defensa de la integridad territorial de España corresponde a…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la Policía Nacional y la Guardia Civil"
+      },
+      {
+        "id": "B",
+        "text": "las Fuerzas Armadas"
+      },
+      {
+        "id": "C",
+        "text": "la Policía Nacional y las policías autonómicas"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1076,
+    "task": 1,
+
+    "text": "El Ejército español participa desde 1989 en misiones de paz de la…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Organización de Estados Iberoamericanos (OEI)"
+      },
+      {
+        "id": "B",
+        "text": "Unión Europea Occidental (UEO)"
+      },
+      {
+        "id": "C",
+        "text": "Organización de Naciones Unidas (ONU)"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1077,
+    "task": 1,
+
+    "text": "¿Quién vigila puertos y aeropuertos, fronteras y costas?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Guardia Civil"
+      },
+      {
+        "id": "B",
+        "text": "La Policía local"
+      },
+      {
+        "id": "C",
+        "text": "La Policía Nacional"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1078,
+    "task": 1,
+
+    "text": "¿Quién hace el control de pasaportes en las fronteras de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Guardia Civil"
+      },
+      {
+        "id": "B",
+        "text": "La Policía local"
+      },
+      {
+        "id": "C",
+        "text": "La Policía Nacional"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1079,
+    "task": 1,
+
+    "text": "¿Quién controla la circulación de coches en las ciudades?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Guardia Civil"
+      },
+      {
+        "id": "B",
+        "text": "La Policía local"
+      },
+      {
+        "id": "C",
+        "text": "La Policía Nacional"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1080,
+    "task": 1,
+
+    "text": "¿Cómo se llama la policía autonómica de Cataluña?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Guardia Civil"
+      },
+      {
+        "id": "B",
+        "text": "Ertzaintza"
+      },
+      {
+        "id": "C",
+        "text": "Mossos d'Esquadra"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1081,
+    "task": 1,
+
+    "text": "¿Cómo se llama la policía autonómica del País Vasco?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ertzaintza"
+      },
+      {
+        "id": "B",
+        "text": "Guardia Civil"
+      },
+      {
+        "id": "C",
+        "text": "Mossos d'Esquadra"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1082,
+    "task": 1,
+
+    "text": "¿Desde qué año es rey Felipe VI?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Desde 1975"
+      },
+      {
+        "id": "B",
+        "text": "Desde 2014"
+      },
+      {
+        "id": "C",
+        "text": "Desde 2020"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1083,
+    "task": 1,
+
+    "text": "¿Quién regula el tráfico en los pueblos y ciudades?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Guardia Civil"
+      },
+      {
+        "id": "B",
+        "text": "Protección Civil"
+      },
+      {
+        "id": "C",
+        "text": "La Policía Local"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1084,
+    "task": 1,
+
+    "text": "¿Quién puede presentar una queja al Defensor del Pueblo?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Solo los ciudadanos legalmente residentes"
+      },
+      {
+        "id": "B",
+        "text": "Solo los españoles mayores de 18 años"
+      },
+      {
+        "id": "C",
+        "text": "Todos los ciudadanos, españoles o extranjeros"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1085,
+    "task": 1,
+
+    "text": "En España el voto en las elecciones es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "un derecho"
+      },
+      {
+        "id": "B",
+        "text": "un deber"
+      },
+      {
+        "id": "C",
+        "text": "una obligación"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1086,
+    "task": 1,
+
+    "text": "¿Quién vigila el tráfico en las carreteras?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Guardia Civil"
+      },
+      {
+        "id": "B",
+        "text": "La Policía Nacional"
+      },
+      {
+        "id": "C",
+        "text": "El Ejército de Tierra"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1087,
+    "task": 1,
+
+    "text": "¿Qué organismo se encarga de recaudar los impuestos?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El Tribunal de Cuentas"
+      },
+      {
+        "id": "B",
+        "text": "La Agencia Tributaria"
+      },
+      {
+        "id": "C",
+        "text": "El Consejo Económico y Social"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1088,
+    "task": 1,
+
+    "text": "¿Dónde se publican las leyes nacionales?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el boletín del Instituto Nacional de Estadística (INE)"
+      },
+      {
+        "id": "B",
+        "text": "En el Portal de la Administración Electrónica (PAe)"
+      },
+      {
+        "id": "C",
+        "text": "En el Boletín Oficial del Estado (BOE)"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1089,
+    "task": 1,
+
+    "text": "¿Cómo se llaman los órganos de gobierno que solo existen en Canarias?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cabildos"
+      },
+      {
+        "id": "B",
+        "text": "Consejos Insulares"
+      },
+      {
+        "id": "C",
+        "text": "Diputaciones"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1090,
+    "task": 1,
+
+    "text": "¿Dónde se difunde toda la información sobre novedades e iniciativas de la Administración electrónica?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el INE (Instituto Nacional de Estadística)"
+      },
+      {
+        "id": "B",
+        "text": "En el BOE (Boletín Oficial del Estado)"
+      },
+      {
+        "id": "C",
+        "text": "En el PAe (Portal de la Administración Electrónica)"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1091,
+    "task": 1,
+
+    "text": "¿Cuál es el número de teléfono de información de la Administración General del Estado?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "010"
+      },
+      {
+        "id": "B",
+        "text": "060"
+      },
+      {
+        "id": "C",
+        "text": "091"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1092,
+    "task": 1,
+
+    "text": "España está organizada en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "cantones"
+      },
+      {
+        "id": "B",
+        "text": "comunidades autónomas"
+      },
+      {
+        "id": "C",
+        "text": "estados federales"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1093,
+    "task": 1,
+
+    "text": "¿Cuántos partidos políticos hay en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ninguno"
+      },
+      {
+        "id": "B",
+        "text": "Uno"
+      },
+      {
+        "id": "C",
+        "text": "Muchos"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1094,
+    "task": 1,
+
+    "text": "¿Dónde tiene lugar la investidura del presidente del Gobierno?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el Palacio de la Moncloa"
+      },
+      {
+        "id": "B",
+        "text": "En el Congreso de los Diputados"
+      },
+      {
+        "id": "C",
+        "text": "En el Senado"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1095,
+    "task": 1,
+
+    "text": "¿Quién tiene el mando supremo de las Fuerzas Armadas?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El rey"
+      },
+      {
+        "id": "B",
+        "text": "El presidente del Gobierno"
+      },
+      {
+        "id": "C",
+        "text": "El ministro de Defensa"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1096,
+    "task": 1,
+
+    "text": "¿Quién es el representante del Estado en una comunidad autónoma?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El presidente de la comunidad autónoma"
+      },
+      {
+        "id": "B",
+        "text": "El delegado del Gobierno"
+      },
+      {
+        "id": "C",
+        "text": "El presidente de la Asamblea autonómica"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1097,
+    "task": 1,
+
+    "text": "¿Cuántas provincias hay en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "45"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "55"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1098,
+    "task": 1,
+
+    "text": "La enseñanza de las lenguas cooficiales es competencia…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "del Estado"
+      },
+      {
+        "id": "B",
+        "text": "de la comunidad autónoma"
+      },
+      {
+        "id": "C",
+        "text": "de la provincia"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1099,
+    "task": 1,
+
+    "text": "El poder ejecutivo corresponde…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "al Gobierno del Estado"
+      },
+      {
+        "id": "B",
+        "text": "al Congreso y al Senado"
+      },
+      {
+        "id": "C",
+        "text": "a los jueces y magistrados"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1100,
+    "task": 1,
+
+    "text": "¿Cuántas cámaras hay en el Parlamento español?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Una"
+      },
+      {
+        "id": "B",
+        "text": "Dos"
+      },
+      {
+        "id": "C",
+        "text": "Tres"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1101,
+    "task": 1,
+
+    "text": "El suministro de agua y el alumbrado de las ciudades es competencia de …",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el ayuntamiento"
+      },
+      {
+        "id": "B",
+        "text": "el Gobierno autonómico"
+      },
+      {
+        "id": "C",
+        "text": "el Ministerio de Obras Públicas y Urbanismo"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1102,
+    "task": 1,
+
+    "text": "En materias como nacionalidad, inmigración, emigración o extranjería solo tiene competencia…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el Estado"
+      },
+      {
+        "id": "B",
+        "text": "las comunidades autónomas"
+      },
+      {
+        "id": "C",
+        "text": "los ayuntamientos"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1103,
+    "task": 1,
+
+    "text": "¿Cuántas mujeres han sido presidentas de Gobierno en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ninguna"
+      },
+      {
+        "id": "B",
+        "text": "Una"
+      },
+      {
+        "id": "C",
+        "text": "Dos"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1104,
+    "task": 1,
+
+    "text": "Las relaciones internacionales son competencia de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el Estado"
+      },
+      {
+        "id": "B",
+        "text": "las comunidades autónomas"
+      },
+      {
+        "id": "C",
+        "text": "los ayuntamientos"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1105,
+    "task": 1,
+
+    "text": "El Ayuntamiento está formado por el alcalde y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "los concejales"
+      },
+      {
+        "id": "B",
+        "text": "los diputados"
+      },
+      {
+        "id": "C",
+        "text": "los senadores"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1106,
+    "task": 1,
+
+    "text": "¿Quiénes forman el gobierno de las comunidades autónomas?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El presidente y los ministros"
+      },
+      {
+        "id": "B",
+        "text": "El alcalde y los concejales"
+      },
+      {
+        "id": "C",
+        "text": "El presidente y los consejeros"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1107,
+    "task": 1,
+
+    "text": "¿Cuál es el órgano de gobierno en los municipios?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El ayuntamiento"
+      },
+      {
+        "id": "B",
+        "text": "La diputación"
+      },
+      {
+        "id": "C",
+        "text": "El cabildo"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1108,
+    "task": 1,
+
+    "text": "¿Cómo se llaman los órganos de gobierno de las provincias españolas?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cabildos"
+      },
+      {
+        "id": "B",
+        "text": "Consejos Insulares"
+      },
+      {
+        "id": "C",
+        "text": "Diputaciones"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1109,
+    "task": 1,
+
+    "text": "¿Cuál es el órgano superior del poder ejecutivo?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El Gobierno"
+      },
+      {
+        "id": "B",
+        "text": "Las Fuerzas Armadas"
+      },
+      {
+        "id": "C",
+        "text": "Las Cortes Generales"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1110,
+    "task": 1,
+
+    "text": "El idioma español también se llama…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "aragonés"
+      },
+      {
+        "id": "B",
+        "text": "castellano"
+      },
+      {
+        "id": "C",
+        "text": "leonés"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1111,
+    "task": 1,
+
+    "text": "¿A quiénes se elige en las elecciones al Parlamento Europeo?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A los ministros europeos"
+      },
+      {
+        "id": "B",
+        "text": "A los consejeros delegados"
+      },
+      {
+        "id": "C",
+        "text": "A los eurodiputados"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1112,
+    "task": 1,
+
+    "text": "Los españoles pueden votar a partir de los…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "16 años"
+      },
+      {
+        "id": "B",
+        "text": "18 años"
+      },
+      {
+        "id": "C",
+        "text": "21 años"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1113,
+    "task": 1,
+
+    "text": "Algunos ciudadanos extranjeros pueden votar en las elecciones…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "municipales"
+      },
+      {
+        "id": "B",
+        "text": "autonómicas"
+      },
+      {
+        "id": "C",
+        "text": "generales"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1114,
+    "task": 1,
+
+    "text": "¿Quién controla la gestión financiera del Estado?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El Banco de España"
+      },
+      {
+        "id": "B",
+        "text": "La Agencia Tributaria"
+      },
+      {
+        "id": "C",
+        "text": "El Tribunal de Cuentas"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1115,
+    "task": 1,
+
+    "text": "¿A quiénes se elige en las elecciones generales?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A los senadores y diputados"
+      },
+      {
+        "id": "B",
+        "text": "A los eurodiputados"
+      },
+      {
+        "id": "C",
+        "text": "A los concejales"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1116,
+    "task": 1,
+
+    "text": "¿Cuántos miembros tiene el Congreso de los Diputados?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "300"
+      },
+      {
+        "id": "B",
+        "text": "350"
+      },
+      {
+        "id": "C",
+        "text": "400"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1117,
+    "task": 1,
+
+    "text": "Los municipios y provincias forman parte de la Administración…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "autonómica"
+      },
+      {
+        "id": "B",
+        "text": "local"
+      },
+      {
+        "id": "C",
+        "text": "central"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 1118,
+    "task": 1,
+
+    "text": "La comunidad autónoma más poblada de España es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Andalucía"
+      },
+      {
+        "id": "B",
+        "text": "Cataluña"
+      },
+      {
+        "id": "C",
+        "text": "Castilla y León"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 1119,
+    "task": 1,
+
+    "text": "¿Cómo se llama la organización que defiende los intereses de los trabajadores?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Asociación"
+      },
+      {
+        "id": "B",
+        "text": "Partido"
+      },
+      {
+        "id": "C",
+        "text": "Sindicato"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 1120,
+    "task": 1,
+
+    "text": "¿Cuál de las siguientes personalidades ha sido presidente del Gobierno de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "José María Aznar"
+      },
+      {
+        "id": "B",
+        "text": "Manuel Fraga"
+      },
+      {
+        "id": "C",
+        "text": "Dolores Ibárruri"
+      }
+    ],
+    "correctChoiceId": "A"
+  }
+]

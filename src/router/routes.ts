@@ -4,8 +4,29 @@ const routes: RouteRecordRaw[] = [
   {
     path: '/',
     component: () => import('layouts/MainLayout.vue'),
-    children: [{ path: '', component: () => import('pages/IndexPage.vue') }],
+    children: [{ path: '', component: () => import('src/pages/IndexPage.vue') }],
   },
+  {
+    path: '/stats',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [{ path: '', component: () => import('src/pages/IndexStats.vue') }],
+  },
+  {
+    path: '/task',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [{ path: '', component: () => import('src/pages/IndexTasks.vue') }],
+  },
+  {
+    path: '/questions',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [{ path: ':id', component: () => import('src/pages/IndexQuestions.vue') }],
+  },
+
+  // {
+  //   path: '/signIn',
+  //   component: () => import('layouts/OutLayout.vue'),
+  //   children: [{ path: '', component: () => import('pages/auth/signIn.vue') }],
+  // },
 
   // Always leave this as last one,
   // but you can also remove it

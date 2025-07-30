@@ -1,0 +1,1766 @@
+[
+  {
+    "code": 5001,
+    "task": 5,
+
+    "text": "¿Quién hace el DNI?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Policía Nacional"
+      },
+      {
+        "id": "B",
+        "text": "La Guardia Civil"
+      },
+      {
+        "id": "C",
+        "text": "La Policía local"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5002,
+    "task": 5,
+
+    "text": "¿Cuál es el documento que certifica el lugar de residencia del titular?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El certificado de empadronamiento"
+      },
+      {
+        "id": "B",
+        "text": "La partida de nacimiento"
+      },
+      {
+        "id": "C",
+        "text": "El carné de conducir"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5003,
+    "task": 5,
+
+    "text": "Para hacer el DNI debes acudir a…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "una comisaría de policía"
+      },
+      {
+        "id": "B",
+        "text": "el Registro Civil"
+      },
+      {
+        "id": "C",
+        "text": "el ayuntamiento"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5004,
+    "task": 5,
+
+    "text": "¿Cuál es la edad mínima para conducir un coche en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "16 años"
+      },
+      {
+        "id": "B",
+        "text": "18 años"
+      },
+      {
+        "id": "C",
+        "text": "20 años"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5005,
+    "task": 5,
+
+    "text": "El carné de conducir se hace en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la Dirección General de Tráfico (DGT)"
+      },
+      {
+        "id": "B",
+        "text": "la Policía Nacional"
+      },
+      {
+        "id": "C",
+        "text": "el Registro Civil"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5006,
+    "task": 5,
+
+    "text": "Para sacar el carné de conducir hay que aprobar…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "un examen teórico"
+      },
+      {
+        "id": "B",
+        "text": "un examen práctico"
+      },
+      {
+        "id": "C",
+        "text": "un examen teórico y otro práctico"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5007,
+    "task": 5,
+
+    "text": "¿Dónde se tramita el libro de familia?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el Registro Civil"
+      },
+      {
+        "id": "B",
+        "text": "En la Seguridad Social"
+      },
+      {
+        "id": "C",
+        "text": "En las comisarías de policía"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5008,
+    "task": 5,
+
+    "text": "¿Cuál de estos canales de televisión es autonómico?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Telecinco"
+      },
+      {
+        "id": "B",
+        "text": "Nova"
+      },
+      {
+        "id": "C",
+        "text": "Canal Sur"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5009,
+    "task": 5,
+
+    "text": "¿Cuánto dura el permiso de maternidad o paternidad?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "12 semanas"
+      },
+      {
+        "id": "B",
+        "text": "16 semanas"
+      },
+      {
+        "id": "C",
+        "text": "22 semanas"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5010,
+    "task": 5,
+
+    "text": "¿Cuál es la tasa máxima de alcohol en sangre permitida a los conductores, en gramos por litro (g/l)?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "0,5"
+      },
+      {
+        "id": "B",
+        "text": "0,7"
+      },
+      {
+        "id": "C",
+        "text": "0,9"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5011,
+    "task": 5,
+
+    "text": "Las viviendas de protección oficial…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "tienen un precio limitado"
+      },
+      {
+        "id": "B",
+        "text": "son para los funcionarios"
+      },
+      {
+        "id": "C",
+        "text": "tienen sistema de vigilancia"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5012,
+    "task": 5,
+
+    "text": "¿Qué comunidad autónoma es conocida por la calidad de su aceite de oliva?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cantabria"
+      },
+      {
+        "id": "B",
+        "text": "Andalucía"
+      },
+      {
+        "id": "C",
+        "text": "La Rioja"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5013,
+    "task": 5,
+
+    "text": "¿Cómo se llama la revisión que deben pasar obligatoriamente los coches?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "IBI (Impuesto sobre Bienes Inmuebles)"
+      },
+      {
+        "id": "B",
+        "text": "ITV (Inspección Técnica de Vehículos)"
+      },
+      {
+        "id": "C",
+        "text": "ITE (Inspección Técnica de Edificios)"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5014,
+    "task": 5,
+
+    "text": "El aperitivo que acompaña a la bebida en bares y restaurantes se llama...",
+    "choices": [
+      {
+        "id": "A",
+        "text": "bocadillo"
+      },
+      {
+        "id": "B",
+        "text": "tapa"
+      },
+      {
+        "id": "C",
+        "text": "primer plato"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5015,
+    "task": 5,
+
+    "text": "¿Dónde se tramita la tarjeta sanitaria?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En la comisaría de policía"
+      },
+      {
+        "id": "B",
+        "text": "En el centro de salud"
+      },
+      {
+        "id": "C",
+        "text": "En el Ministerio de Sanidad"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5016,
+    "task": 5,
+
+    "text": "¿Con cuántos hijos una familia es numerosa?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Con 1 hijo"
+      },
+      {
+        "id": "B",
+        "text": "Con 2 hijos"
+      },
+      {
+        "id": "C",
+        "text": "Con 3 hijos"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5017,
+    "task": 5,
+
+    "text": "En España está permitido el matrimonio…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "solo entre personas del mismo sexo"
+      },
+      {
+        "id": "B",
+        "text": "entre personas del mismo y diferente sexo"
+      },
+      {
+        "id": "C",
+        "text": "solo entre personas de diferente sexo"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5018,
+    "task": 5,
+
+    "text": "Los propietarios de perros deben registrarlos en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el Ministerio de Justicia"
+      },
+      {
+        "id": "B",
+        "text": "la comisaría de policía"
+      },
+      {
+        "id": "C",
+        "text": "el Ayuntamiento"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5019,
+    "task": 5,
+
+    "text": "Los principales ingredientes de la tortilla española son huevos y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "pimientos"
+      },
+      {
+        "id": "B",
+        "text": "patatas"
+      },
+      {
+        "id": "C",
+        "text": "tomates"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5020,
+    "task": 5,
+
+    "text": "¿Quién es un cocinero famoso dentro y fuera de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "José Andrés"
+      },
+      {
+        "id": "B",
+        "text": "Rafael Nadal"
+      },
+      {
+        "id": "C",
+        "text": "Josep Carreras"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5021,
+    "task": 5,
+
+    "text": "¿Cuál de estos canales de televisión es público?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Tele5"
+      },
+      {
+        "id": "B",
+        "text": "La 1"
+      },
+      {
+        "id": "C",
+        "text": "Antena 3"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5022,
+    "task": 5,
+
+    "text": "En una comunidad de vecinos, una de las normas es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "abrir la puerta al cartero"
+      },
+      {
+        "id": "B",
+        "text": "no molestar con ruido"
+      },
+      {
+        "id": "C",
+        "text": "limpiar los espacios comunes"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5023,
+    "task": 5,
+
+    "text": "La sangría es una bebida compuesta por refrescos, vino y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "fruta"
+      },
+      {
+        "id": "B",
+        "text": "té"
+      },
+      {
+        "id": "C",
+        "text": "agua"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5024,
+    "task": 5,
+
+    "text": "La sidra es una bebida típica de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Asturias"
+      },
+      {
+        "id": "B",
+        "text": "Valencia"
+      },
+      {
+        "id": "C",
+        "text": "Canarias"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5025,
+    "task": 5,
+
+    "text": "Los españoles tienen dos apellidos, el primero es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "obligatoriamente el de la madre"
+      },
+      {
+        "id": "B",
+        "text": "obligatoriamente el del padre"
+      },
+      {
+        "id": "C",
+        "text": "puede ser el de la madre o el del padre"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5026,
+    "task": 5,
+
+    "text": "La Fiesta Nacional de España es el…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "6 de diciembre"
+      },
+      {
+        "id": "B",
+        "text": "15 de agosto"
+      },
+      {
+        "id": "C",
+        "text": "12 de octubre"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5027,
+    "task": 5,
+
+    "text": "¿Cuál es el horario habitual de los hipermercados y centros comerciales?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "De 9:00 a 17:00 h"
+      },
+      {
+        "id": "B",
+        "text": "De 10:00 a 22:00 h"
+      },
+      {
+        "id": "C",
+        "text": "De 8:00 a 23:00 h"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5028,
+    "task": 5,
+
+    "text": "¿Dónde se hace el pasaporte?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el registro civil"
+      },
+      {
+        "id": "B",
+        "text": "En una comisaría de policía"
+      },
+      {
+        "id": "C",
+        "text": "En el Ayuntamiento"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5029,
+    "task": 5,
+
+    "text": "El Ministerio de Igualdad es el encargado de luchar contra la violencia de género y la…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "separación"
+      },
+      {
+        "id": "B",
+        "text": "discriminación"
+      },
+      {
+        "id": "C",
+        "text": "solidaridad"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5030,
+    "task": 5,
+
+    "text": "¿Cuál de estas regiones es conocida por sus vinos con denominación de origen?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ribera de Duero"
+      },
+      {
+        "id": "B",
+        "text": "Pirineos"
+      },
+      {
+        "id": "C",
+        "text": "La Vera"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5031,
+    "task": 5,
+
+    "text": "El DNI se hace…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "por internet"
+      },
+      {
+        "id": "B",
+        "text": "en persona"
+      },
+      {
+        "id": "C",
+        "text": "por teléfono"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5032,
+    "task": 5,
+
+    "text": "El horario de Canarias, con respecto a la Península, es de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "dos horas menos"
+      },
+      {
+        "id": "B",
+        "text": "una hora menos"
+      },
+      {
+        "id": "C",
+        "text": "una hora más"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5033,
+    "task": 5,
+
+    "text": "Para acceder a la Universidad se debe superar una prueba de evaluación llamada…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Selectividad"
+      },
+      {
+        "id": "B",
+        "text": "Examen preuniversitario"
+      },
+      {
+        "id": "C",
+        "text": "Prueba de Acceso a la Universidad"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5034,
+    "task": 5,
+
+    "text": "¿Cuál de estos productos necesita importar España de otros países?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Petróleo"
+      },
+      {
+        "id": "B",
+        "text": "Aceite de oliva"
+      },
+      {
+        "id": "C",
+        "text": "Medicamentos"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5035,
+    "task": 5,
+
+    "text": "¿Qué tipo de impuestos tienen que pagar los ciudadanos en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "impuestos directos como el IRPF"
+      },
+      {
+        "id": "B",
+        "text": "impuestos indirectos como el IVA"
+      },
+      {
+        "id": "C",
+        "text": "impuestos directos e indirectos"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5036,
+    "task": 5,
+
+    "text": "Los adultos sin Bachillerato pueden estudiar en la Universidad haciendo una prueba especial a partir de los…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "18 años"
+      },
+      {
+        "id": "B",
+        "text": "23 años"
+      },
+      {
+        "id": "C",
+        "text": "25 años"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5037,
+    "task": 5,
+
+    "text": "¿Dónde puede encontrarse la siguiente norma «Dejar salir antes de entrar»?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el transporte público"
+      },
+      {
+        "id": "B",
+        "text": "En parques y jardines"
+      },
+      {
+        "id": "C",
+        "text": "En instalaciones deportivas"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5038,
+    "task": 5,
+
+    "text": "El Bachillerato en España…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "es obligatorio"
+      },
+      {
+        "id": "B",
+        "text": "se compone de dos cursos académicos"
+      },
+      {
+        "id": "C",
+        "text": "es la enseñanza a alumnos de 14 a 16 años"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5039,
+    "task": 5,
+
+    "text": "El Impuesto sobre el Valor Añadido (IVA) forma parte de los…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "impuestos indirectos"
+      },
+      {
+        "id": "B",
+        "text": "impuestos sobre la renta"
+      },
+      {
+        "id": "C",
+        "text": "impuestos sobre sociedades"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5040,
+    "task": 5,
+
+    "text": "¿Qué número reciben los trabajadores al comenzar su primer empleo?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El de la Seguridad Social"
+      },
+      {
+        "id": "B",
+        "text": "El del pasaporte"
+      },
+      {
+        "id": "C",
+        "text": "El número de servicio"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5041,
+    "task": 5,
+
+    "text": "Los colegios públicos…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "pueden decidir su número de plazas"
+      },
+      {
+        "id": "B",
+        "text": "pueden contratar los profesores que quieran"
+      },
+      {
+        "id": "C",
+        "text": "son gratuitos"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5042,
+    "task": 5,
+
+    "text": "¿Cuál de estos puertos es uno de los principales de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Tenerife"
+      },
+      {
+        "id": "B",
+        "text": "Alicante"
+      },
+      {
+        "id": "C",
+        "text": "Algeciras"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5043,
+    "task": 5,
+
+    "text": "Un colegio concertado es un colegio privado que…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "recibe dinero de la Administración"
+      },
+      {
+        "id": "B",
+        "text": "financian los padres de los alumnos"
+      },
+      {
+        "id": "C",
+        "text": "recibe dinero de los bancos"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5044,
+    "task": 5,
+
+    "text": "España exporta productos principalmente a países…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "de Hispanoamérica"
+      },
+      {
+        "id": "B",
+        "text": "de la Unión Europea"
+      },
+      {
+        "id": "C",
+        "text": "del Norte de África"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5045,
+    "task": 5,
+
+    "text": "Las bibliotecas públicas son gratuitas para…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "todos"
+      },
+      {
+        "id": "B",
+        "text": "los parados"
+      },
+      {
+        "id": "C",
+        "text": "los niños"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5046,
+    "task": 5,
+
+    "text": "¿Cuál de estos productos exporta España más que importa?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Gas"
+      },
+      {
+        "id": "B",
+        "text": "Ropa"
+      },
+      {
+        "id": "C",
+        "text": "Calzado"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5047,
+    "task": 5,
+
+    "text": "Una persona mayor de 18 años puede obtener el título de Graduado en Educación Secundaria Obligatoria en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "un Centro de Educación de Personas Adultas"
+      },
+      {
+        "id": "B",
+        "text": "un centro de enseñanza Primaria"
+      },
+      {
+        "id": "C",
+        "text": "una universidad"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5048,
+    "task": 5,
+
+    "text": "La formación profesional…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "es para mayores de 25 años"
+      },
+      {
+        "id": "B",
+        "text": "puede ser de grado medio o superior"
+      },
+      {
+        "id": "C",
+        "text": "es obligatoria"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5049,
+    "task": 5,
+
+    "text": "¿Adónde vamos para ver al médico de familia o al pediatra?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Al hospital"
+      },
+      {
+        "id": "B",
+        "text": "Al centro de salud"
+      },
+      {
+        "id": "C",
+        "text": "A la farmacia"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5050,
+    "task": 5,
+
+    "text": "¿Para cuántos años vale la tarjeta sanitaria europea?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Para un año"
+      },
+      {
+        "id": "B",
+        "text": "Para dos años"
+      },
+      {
+        "id": "C",
+        "text": "Para 10 años"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5051,
+    "task": 5,
+
+    "text": "¿A qué hora se cena normalmente en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A las 18 h"
+      },
+      {
+        "id": "B",
+        "text": "A las 23 h"
+      },
+      {
+        "id": "C",
+        "text": "A las 21 o 22 h"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5052,
+    "task": 5,
+
+    "text": "¿Cuál es el número de teléfono único para cualquier emergencia?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "060"
+      },
+      {
+        "id": "B",
+        "text": "112"
+      },
+      {
+        "id": "C",
+        "text": "911"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5053,
+    "task": 5,
+
+    "text": "¿Cuál es un periódico deportivo?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "ABC"
+      },
+      {
+        "id": "B",
+        "text": "As"
+      },
+      {
+        "id": "C",
+        "text": "Cinco días"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5054,
+    "task": 5,
+
+    "text": "¿Dónde se venden sellos y tabaco?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el quiosco"
+      },
+      {
+        "id": "B",
+        "text": "En la farmacia"
+      },
+      {
+        "id": "C",
+        "text": "En el estanco"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5055,
+    "task": 5,
+
+    "text": "¿Cómo se llama el tren español de alta velocidad?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "AVE"
+      },
+      {
+        "id": "B",
+        "text": "TGV"
+      },
+      {
+        "id": "C",
+        "text": "Eurostar"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5056,
+    "task": 5,
+
+    "text": "La organización que trabaja para conseguir la integración de las personas con discapacidad visual es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la ONCE"
+      },
+      {
+        "id": "B",
+        "text": "Unicef"
+      },
+      {
+        "id": "C",
+        "text": "Cáritas"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5057,
+    "task": 5,
+
+    "text": "El Camino de Santiago es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Patrimonio de la Humanidad"
+      },
+      {
+        "id": "B",
+        "text": "una vía de ferrocarril"
+      },
+      {
+        "id": "C",
+        "text": "una ruta para excursionistas"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5058,
+    "task": 5,
+
+    "text": "¿Cuál es el canal de televisión estatal que transmite noticias de actualidad nacional e internacional continuamente?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Teledeporte"
+      },
+      {
+        "id": "B",
+        "text": "La 1"
+      },
+      {
+        "id": "C",
+        "text": "Canal 24 horas"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5059,
+    "task": 5,
+
+    "text": "El teléfono gratuito para las víctimas de violencia de género es el…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "091"
+      },
+      {
+        "id": "B",
+        "text": "112"
+      },
+      {
+        "id": "C",
+        "text": "016"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5060,
+    "task": 5,
+
+    "text": "En España, la red de trenes puede ser de larga distancia, de media distancia y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "de cercanías"
+      },
+      {
+        "id": "B",
+        "text": "rural"
+      },
+      {
+        "id": "C",
+        "text": "transnacional"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5061,
+    "task": 5,
+
+    "text": "¿Qué está prohibido hacer en la puerta de un hospital o colegio?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Fumar"
+      },
+      {
+        "id": "B",
+        "text": "Comer"
+      },
+      {
+        "id": "C",
+        "text": "Beber"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5062,
+    "task": 5,
+
+    "text": "Cuando compramos 250 gramos de un alimento estamos comprando…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "medio kilo"
+      },
+      {
+        "id": "B",
+        "text": "un cuarto de kilo"
+      },
+      {
+        "id": "C",
+        "text": "un tercio de kilo"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5063,
+    "task": 5,
+
+    "text": "Si compramos una botella de agua de 750 ml, compramos una botella de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "tres cuartos de litro"
+      },
+      {
+        "id": "B",
+        "text": "medio litro"
+      },
+      {
+        "id": "C",
+        "text": "un litro"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5064,
+    "task": 5,
+
+    "text": "¿Dónde se compran las medicinas con receta?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el hospital"
+      },
+      {
+        "id": "B",
+        "text": "En el centro de salud"
+      },
+      {
+        "id": "C",
+        "text": "En la farmacia"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5065,
+    "task": 5,
+
+    "text": "¿Cuál de estas tres recomendaciones podemos encontrar en un parque?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "No pisar el césped"
+      },
+      {
+        "id": "B",
+        "text": "Se recomienda pagar el billete con el dinero justo"
+      },
+      {
+        "id": "C",
+        "text": "Respetar las normas sobre equipaje"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5066,
+    "task": 5,
+
+    "text": "¿Cuál de las siguientes cosas es obligatoria para el propietario de un coche en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El garaje"
+      },
+      {
+        "id": "B",
+        "text": "El seguro"
+      },
+      {
+        "id": "C",
+        "text": "La alarma"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5067,
+    "task": 5,
+
+    "text": "El aeropuerto Adolfo Suárez está en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Barcelona"
+      },
+      {
+        "id": "B",
+        "text": "Madrid"
+      },
+      {
+        "id": "C",
+        "text": "Bilbao"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5068,
+    "task": 5,
+
+    "text": "En un coche es obligatorio el uso del cinturón de seguridad...",
+    "choices": [
+      {
+        "id": "A",
+        "text": "solo en el asiento del conductor"
+      },
+      {
+        "id": "B",
+        "text": "en los asientos delanteros"
+      },
+      {
+        "id": "C",
+        "text": "en todos los asientos"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 5069,
+    "task": 5,
+
+    "text": "¿Cuál es el límite de velocidad en autopista?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "90 km/h"
+      },
+      {
+        "id": "B",
+        "text": "120 km/h"
+      },
+      {
+        "id": "C",
+        "text": "150 km/h"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5070,
+    "task": 5,
+
+    "text": "Ceder el asiento a las personas con movilidad reducida es una norma que encontramosindicada en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el transporte público"
+      },
+      {
+        "id": "B",
+        "text": "las bibliotecas"
+      },
+      {
+        "id": "C",
+        "text": "los museos"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5071,
+    "task": 5,
+
+    "text": "¿En qué caso se retira el permiso de conducir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Por accidente grave"
+      },
+      {
+        "id": "B",
+        "text": "Por la pérdida de los puntos"
+      },
+      {
+        "id": "C",
+        "text": "Por exceso de velocidad"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5072,
+    "task": 5,
+
+    "text": "¿Qué significa Renfe?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Red Nacional de Fondos Europeos"
+      },
+      {
+        "id": "B",
+        "text": "Red Nacional de los Ferrocarriles Españoles"
+      },
+      {
+        "id": "C",
+        "text": "Red Nacional de Fundaciones Estatales"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5073,
+    "task": 5,
+
+    "text": "Los españoles necesitan el pasaporte para viajar a…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Italia"
+      },
+      {
+        "id": "B",
+        "text": "China"
+      },
+      {
+        "id": "C",
+        "text": "Alemania"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5074,
+    "task": 5,
+
+    "text": "¿Cuál es la edad mínima para trabajar en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "16 años"
+      },
+      {
+        "id": "B",
+        "text": "18 años"
+      },
+      {
+        "id": "C",
+        "text": "21 años"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5075,
+    "task": 5,
+
+    "text": "¿Cuál es el sector de mayor peso en la economía española?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Agricultura"
+      },
+      {
+        "id": "B",
+        "text": "Servicios"
+      },
+      {
+        "id": "C",
+        "text": "Construcción"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5076,
+    "task": 5,
+
+    "text": "España es innovadora en el sector de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la ingeniería aeroespacial"
+      },
+      {
+        "id": "B",
+        "text": "las energías renovables"
+      },
+      {
+        "id": "C",
+        "text": "la energía nuclear"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5077,
+    "task": 5,
+
+    "text": "¿Cómo se llama la ley laboral más importante de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Constitución"
+      },
+      {
+        "id": "B",
+        "text": "El Estatuto de los Trabajadores"
+      },
+      {
+        "id": "C",
+        "text": "El Servicio Público de Empleo Estatal"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5078,
+    "task": 5,
+
+    "text": "¿Cuáles de estos establecimientos está abierto 24 horas si es necesario?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Farmacia"
+      },
+      {
+        "id": "B",
+        "text": "Pescadería"
+      },
+      {
+        "id": "C",
+        "text": "Librería"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5079,
+    "task": 5,
+
+    "text": "La educación infantil en España…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "es obligatoria"
+      },
+      {
+        "id": "B",
+        "text": "tiene dos ciclos"
+      },
+      {
+        "id": "C",
+        "text": "empieza a los 4 años"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5080,
+    "task": 5,
+
+    "text": "¿Cuándo empieza el calendario escolar?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En agosto"
+      },
+      {
+        "id": "B",
+        "text": "En septiembre"
+      },
+      {
+        "id": "C",
+        "text": "En octubre"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5081,
+    "task": 5,
+
+    "text": "Las Escuelas Oficiales de Idiomas…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "son centros de enseñanza privada"
+      },
+      {
+        "id": "B",
+        "text": "son para mayores de 16 años"
+      },
+      {
+        "id": "C",
+        "text": "dependen del Instituto Cervantes"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 5082,
+    "task": 5,
+
+    "text": "¿Cuál es el documento que recoge los años de cotización a la Seguridad Social?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Informe de vida laboral"
+      },
+      {
+        "id": "B",
+        "text": "Recibo de finiquito"
+      },
+      {
+        "id": "C",
+        "text": "Certificado de profesionalidad"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5083,
+    "task": 5,
+
+    "text": "Los convenios colectivos de una empresa son los que se firman con los representantes de los trabajadores sobre…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "las condiciones laborales"
+      },
+      {
+        "id": "B",
+        "text": "El futuro de la empresa"
+      },
+      {
+        "id": "C",
+        "text": "La relación con los clientes"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 5084,
+    "task": 5,
+
+    "text": "¿Cuál de estas comunidades autónomas tiene el PIB por habitante más alto?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Navarra"
+      },
+      {
+        "id": "B",
+        "text": "Galicia"
+      },
+      {
+        "id": "C",
+        "text": "Andalucía"
+      }
+    ],
+    "correctChoiceId": "A"
+  }
+]

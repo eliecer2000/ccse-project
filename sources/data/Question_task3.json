@@ -1,0 +1,758 @@
+[
+  {
+    "code": 4001,
+    "task": 4,
+
+    "text": "Los personajes principales de la novela el Quijote son don Quijote y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Don Juan"
+      },
+      {
+        "id": "B",
+        "text": "Sancho Panza"
+      },
+      {
+        "id": "C",
+        "text": "Doña Inés"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4002,
+    "task": 4,
+
+    "text": "¿Cuál de las siguientes mujeres es una científica española reconocida mundialmente?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Montserrat Caballé"
+      },
+      {
+        "id": "B",
+        "text": "Ana María Matute"
+      },
+      {
+        "id": "C",
+        "text": "Margarita Salas"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 4003,
+    "task": 4,
+
+    "text": "¿Cómo se llama, en literatura, a los siglos XVI y XVII?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Siglos de Oro"
+      },
+      {
+        "id": "B",
+        "text": "Siglos de Plata"
+      },
+      {
+        "id": "C",
+        "text": "Siglos de Platino"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4004,
+    "task": 4,
+
+    "text": "María Zambrano, María Teresa León y Rosa Chacel son…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "pintoras"
+      },
+      {
+        "id": "B",
+        "text": "escritoras"
+      },
+      {
+        "id": "C",
+        "text": "deportistas"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4005,
+    "task": 4,
+
+    "text": "¿Qué músico compuso El amor brujo?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Manuel de Falla"
+      },
+      {
+        "id": "B",
+        "text": "Isaac Albéniz"
+      },
+      {
+        "id": "C",
+        "text": "Joaquín Rodrigo"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4006,
+    "task": 4,
+
+    "text": "¿Qué dulce es típico de las navidades?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El flan"
+      },
+      {
+        "id": "B",
+        "text": "El turrón"
+      },
+      {
+        "id": "C",
+        "text": "El huevo de Pascua"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4007,
+    "task": 4,
+
+    "text": "¿Qué instrumento musical es típico del folclore español?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El piano"
+      },
+      {
+        "id": "B",
+        "text": "El violín"
+      },
+      {
+        "id": "C",
+        "text": "La guitarra"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 4008,
+    "task": 4,
+
+    "text": "Isabel Coixet es una…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "cantante pop"
+      },
+      {
+        "id": "B",
+        "text": "bailarina clásica"
+      },
+      {
+        "id": "C",
+        "text": "directora de cine"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 4009,
+    "task": 4,
+
+    "text": "Una de las cantantes españolas más famosas actualmente es...",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Rosalía"
+      },
+      {
+        "id": "B",
+        "text": "Marisol"
+      },
+      {
+        "id": "C",
+        "text": "Lola Flores"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4010,
+    "task": 4,
+
+    "text": "¿En qué ciudad de España hay una mezquita que es Patrimonio de la Humanidad?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Santiago de Compostela"
+      },
+      {
+        "id": "B",
+        "text": "Madrid"
+      },
+      {
+        "id": "C",
+        "text": "Córdoba"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 4011,
+    "task": 4,
+
+    "text": "¿En qué ciudad de España se encuentra La Alhambra, que es Patrimonio de la Humanidad?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En Sevilla"
+      },
+      {
+        "id": "B",
+        "text": "En Córdoba"
+      },
+      {
+        "id": "C",
+        "text": "En Granada"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 4012,
+    "task": 4,
+
+    "text": "¿Dónde está La Sagrada Familia, el monumento de Gaudí?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En Barcelona"
+      },
+      {
+        "id": "B",
+        "text": "En Granada"
+      },
+      {
+        "id": "C",
+        "text": "En Madrid"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4013,
+    "task": 4,
+
+    "text": "Pablo Picasso fue un famoso…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "pintor"
+      },
+      {
+        "id": "B",
+        "text": "músico"
+      },
+      {
+        "id": "C",
+        "text": "escritor"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4014,
+    "task": 4,
+
+    "text": "¿Cómo se llama la mayor institución pública dedicada a la investigación en España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Real Academia Española (RAE)"
+      },
+      {
+        "id": "B",
+        "text": "Consejo Superior de investigaciones Científicas (CSIC)"
+      },
+      {
+        "id": "C",
+        "text": "La sociedad General de Autores (SGAE)"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4015,
+    "task": 4,
+
+    "text": "Paco de Lucía fue un famoso….",
+    "choices": [
+      {
+        "id": "A",
+        "text": "científico"
+      },
+      {
+        "id": "B",
+        "text": "guitarrista"
+      },
+      {
+        "id": "C",
+        "text": "pintor"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4016,
+    "task": 4,
+
+    "text": "¿Cuál de estas manifestaciones folclóricas es patrimonio cultural inmaterial de la humanidad?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El flamenco"
+      },
+      {
+        "id": "B",
+        "text": "La jota"
+      },
+      {
+        "id": "C",
+        "text": "La sardana"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4017,
+    "task": 4,
+
+    "text": "¿Cuál es la moneda común en muchos países de la Unión Europea?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El dólar"
+      },
+      {
+        "id": "B",
+        "text": "El peso"
+      },
+      {
+        "id": "C",
+        "text": "El euro"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 4018,
+    "task": 4,
+
+    "text": "La fiesta de la Tomatina se celebra en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mérida"
+      },
+      {
+        "id": "B",
+        "text": "Buñol"
+      },
+      {
+        "id": "C",
+        "text": "Santiago de Compostela"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4019,
+    "task": 4,
+
+    "text": "La Feria del Libro se celebra en toda España, normalmente, en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "invierno"
+      },
+      {
+        "id": "B",
+        "text": "primavera"
+      },
+      {
+        "id": "C",
+        "text": "verano"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4020,
+    "task": 4,
+
+    "text": "La Liga y la Copa del Rey son competiciones de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "natación"
+      },
+      {
+        "id": "B",
+        "text": "atletismo"
+      },
+      {
+        "id": "C",
+        "text": "fútbol"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 4021,
+    "task": 4,
+
+    "text": "¿Quién ha recibido el premio Nobel de Literatura?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "María Zambrano"
+      },
+      {
+        "id": "B",
+        "text": "Pablo Picasso"
+      },
+      {
+        "id": "C",
+        "text": "Vicente Aleixandre"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 4022,
+    "task": 4,
+
+    "text": "Las chirigotas de Cádiz son típicas de…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "la Semana Santa"
+      },
+      {
+        "id": "B",
+        "text": "los carnavales"
+      },
+      {
+        "id": "C",
+        "text": "las verbenas de verano"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4023,
+    "task": 4,
+
+    "text": "Teresa Perales y Daniel Molina son...",
+    "choices": [
+      {
+        "id": "A",
+        "text": "campeones paraolímpicos"
+      },
+      {
+        "id": "B",
+        "text": "músicos famosos"
+      },
+      {
+        "id": "C",
+        "text": "artistas de cine"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4024,
+    "task": 4,
+
+    "text": "¿Qué toman los españoles la noche del 31 de diciembre para celebrar el cambio de año?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Lentejas"
+      },
+      {
+        "id": "B",
+        "text": "Uvas"
+      },
+      {
+        "id": "C",
+        "text": "Aceitunas"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4025,
+    "task": 4,
+
+    "text": "¿Dónde está al Museo del Prado?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En Madrid"
+      },
+      {
+        "id": "B",
+        "text": "En Bilbao"
+      },
+      {
+        "id": "C",
+        "text": "En Sevilla"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4026,
+    "task": 4,
+
+    "text": "¿Dónde se celebra un famoso festival de cine?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En San Sebastián"
+      },
+      {
+        "id": "B",
+        "text": "En Cuenca"
+      },
+      {
+        "id": "C",
+        "text": "En Vigo"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4027,
+    "task": 4,
+
+    "text": "¿Qué escritora española escribe en otra lengua oficial de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mercè Rodoreda"
+      },
+      {
+        "id": "B",
+        "text": "Almudena Grandes"
+      },
+      {
+        "id": "C",
+        "text": "Ana María Matute"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4028,
+    "task": 4,
+
+    "text": "¿Qué tres culturas convivieron en la España medieval?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La cristiana, la judía y la musulmana"
+      },
+      {
+        "id": "B",
+        "text": "La fenicia, la judía y la musulmana"
+      },
+      {
+        "id": "C",
+        "text": "La griega, la cristiana y la judía"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4029,
+    "task": 4,
+
+    "text": "El 6 de diciembre se celebra en España…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el Día de la Constitución"
+      },
+      {
+        "id": "B",
+        "text": "la llegada de Colón a América"
+      },
+      {
+        "id": "C",
+        "text": "el Día del Libro"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4030,
+    "task": 4,
+
+    "text": "¿Dónde se encuentran la Cueva de Altamira que son Patrimonio Mundial de UNESCO?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En Cataluña"
+      },
+      {
+        "id": "B",
+        "text": "En Aragón"
+      },
+      {
+        "id": "C",
+        "text": "En Cantabria"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 4031,
+    "task": 4,
+
+    "text": "La Transición española a la democracia comienza en...",
+    "choices": [
+      {
+        "id": "A",
+        "text": "1936"
+      },
+      {
+        "id": "B",
+        "text": "1975"
+      },
+      {
+        "id": "C",
+        "text": "1982"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4032,
+    "task": 4,
+
+    "text": "El Premio Cervantes se da a…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "actores"
+      },
+      {
+        "id": "B",
+        "text": "escritores"
+      },
+      {
+        "id": "C",
+        "text": "pintores"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4033,
+    "task": 4,
+
+    "text": "Los Premios Goya están relacionados con…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "el cine"
+      },
+      {
+        "id": "B",
+        "text": "la literatura"
+      },
+      {
+        "id": "C",
+        "text": "la pintura"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4034,
+    "task": 4,
+
+    "text": "¿Qué premios promueven en España valores científicos, culturales y humanísticos?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Los Premios Cervantes"
+      },
+      {
+        "id": "B",
+        "text": "Los Premios Princesa de Asturias"
+      },
+      {
+        "id": "C",
+        "text": "Los Premios Goya"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 4035,
+    "task": 4,
+
+    "text": "¿Cuándo fueron los Juegos Olímpicos de Barcelona?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En 1992"
+      },
+      {
+        "id": "B",
+        "text": "En 1996"
+      },
+      {
+        "id": "C",
+        "text": "En 2004"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 4036,
+    "task": 4,
+
+    "text": "El escritor Miguel de Cervantes nació en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Mancha"
+      },
+      {
+        "id": "B",
+        "text": "Madrid"
+      },
+      {
+        "id": "C",
+        "text": "Alcalá de Henares"
+      }
+    ],
+    "correctChoiceId": "C"
+  }
+]

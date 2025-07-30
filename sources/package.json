@@ -1,0 +1,16 @@
+{
+  "name": "ccse-appsync-import",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "import:question": "node src/import-question.js",
+    "import:bycode": "node src/import-questionbycode.js",
+    "import:bytask": "node src/import-questionbytask.js",
+    "import:byrand": "node src/import-questionbyrand.js",
+    "import:all": "npm-run-all --continue-on-error import:question import:bycode import:bytask import:byrand"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "npm-run-all": "^4.1.5"
+  }
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "code": 3001,
+    "task": 3,
+
+    "text": "¿Dónde están Cáceres y Badajoz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el Principado de Asturias"
+      },
+      {
+        "id": "B",
+        "text": "En Andalucía"
+      },
+      {
+        "id": "C",
+        "text": "En Extremadura"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 3002,
+    "task": 3,
+
+    "text": "¿Cuál es la capital del Principado de Asturias?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Avilés"
+      },
+      {
+        "id": "B",
+        "text": "Gijón"
+      },
+      {
+        "id": "C",
+        "text": "Oviedo"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 3003,
+    "task": 3,
+
+    "text": "¿Dónde están las islas Baleares?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En el mar Cantábrico"
+      },
+      {
+        "id": "B",
+        "text": "En el mar Mediterráneo"
+      },
+      {
+        "id": "C",
+        "text": "En el océano Atlántico"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 3004,
+    "task": 3,
+
+    "text": "¿Cómo se llama la extensa llanura situada en el centro de la península ibérica?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Marisma"
+      },
+      {
+        "id": "B",
+        "text": "Cordillera"
+      },
+      {
+        "id": "C",
+        "text": "Meseta"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 3005,
+    "task": 3,
+
+    "text": "¿Cuál es la montaña más alta de la península ibérica?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El Mulhacén"
+      },
+      {
+        "id": "B",
+        "text": "El Aneto"
+      },
+      {
+        "id": "C",
+        "text": "El Teide"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 3006,
+    "task": 3,
+
+    "text": "¿En qué comunidad autónoma están Guadalajara y Cuenca?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En Castilla y León"
+      },
+      {
+        "id": "B",
+        "text": "En Castilla-La Mancha"
+      },
+      {
+        "id": "C",
+        "text": "En Cantabria"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 3007,
+    "task": 3,
+
+    "text": "¿De qué comunidad autónoma es capital Mérida?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "De Valencia"
+      },
+      {
+        "id": "B",
+        "text": "De Cataluña"
+      },
+      {
+        "id": "C",
+        "text": "De Extremadura"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 3008,
+    "task": 3,
+
+    "text": "¿Dónde está Almería?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En Andalucía"
+      },
+      {
+        "id": "B",
+        "text": "En Canarias"
+      },
+      {
+        "id": "C",
+        "text": "En Aragón"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 3009,
+    "task": 3,
+
+    "text": "La capital de la Comunidad Autónoma de Galicia es…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A Coruña"
+      },
+      {
+        "id": "B",
+        "text": "Vigo"
+      },
+      {
+        "id": "C",
+        "text": "Santiago de Compostela"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 3010,
+    "task": 3,
+
+    "text": "¿Cuál de estos climas es propio de España?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Polar"
+      },
+      {
+        "id": "B",
+        "text": "Mediterráneo"
+      },
+      {
+        "id": "C",
+        "text": "Tropical"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 3011,
+    "task": 3,
+
+    "text": "¿Dónde está el monte Aneto?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En los Pirineos"
+      },
+      {
+        "id": "B",
+        "text": "En el Sistema Central"
+      },
+      {
+        "id": "C",
+        "text": "En Sierra Nevada"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 3012,
+    "task": 3,
+
+    "text": "Tarragona está en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cataluña"
+      },
+      {
+        "id": "B",
+        "text": "Galicia"
+      },
+      {
+        "id": "C",
+        "text": "Navarra"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 3013,
+    "task": 3,
+
+    "text": "España se divide en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "departamentos y regiones"
+      },
+      {
+        "id": "B",
+        "text": "comunidades y ciudades autónomas"
+      },
+      {
+        "id": "C",
+        "text": "regiones autónomas y distritos"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 3014,
+    "task": 3,
+
+    "text": "¿Cuál de estas comunidades autónomas tiene solo una provincia?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "La Rioja"
+      },
+      {
+        "id": "B",
+        "text": "Aragón"
+      },
+      {
+        "id": "C",
+        "text": "Galicia"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 3015,
+    "task": 3,
+
+    "text": "En el norte de África están Ceuta y…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Almería"
+      },
+      {
+        "id": "B",
+        "text": "Melilla"
+      },
+      {
+        "id": "C",
+        "text": "Cádiz"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 3016,
+    "task": 3,
+
+    "text": "¿Cuál de estas comunidades autónomas tiene más de una provincia?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Asturias"
+      },
+      {
+        "id": "B",
+        "text": "Madrid"
+      },
+      {
+        "id": "C",
+        "text": "Castilla-La Mancha"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 3017,
+    "task": 3,
+
+    "text": "¿Cuál de estos ríos desemboca en el océano Atlántico?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "El Guadalquivir"
+      },
+      {
+        "id": "B",
+        "text": "El Manzanares"
+      },
+      {
+        "id": "C",
+        "text": "El Júcar"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 3018,
+    "task": 3,
+
+    "text": "¿Cuál de estas provincias forma parte de la Comunidad de Castilla-León?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Burgos"
+      },
+      {
+        "id": "B",
+        "text": "Huesca"
+      },
+      {
+        "id": "C",
+        "text": "Guadalajara"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 3019,
+    "task": 3,
+
+    "text": "Las temperaturas suaves con abundantes lluvias son propias del clima…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "continental"
+      },
+      {
+        "id": "B",
+        "text": "oceánico"
+      },
+      {
+        "id": "C",
+        "text": "subtropical"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 3020,
+    "task": 3,
+
+    "text": "Canarias tiene un clima…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "mediterráneo"
+      },
+      {
+        "id": "B",
+        "text": "oceánico"
+      },
+      {
+        "id": "C",
+        "text": "subtropical"
+      }
+    ],
+    "correctChoiceId": "C"
+  },
+  {
+    "code": 3021,
+    "task": 3,
+
+    "text": "El principal río que desemboca en el mar Mediterráneo es el…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ebro"
+      },
+      {
+        "id": "B",
+        "text": "Duero"
+      },
+      {
+        "id": "C",
+        "text": "Tajo"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 3022,
+    "task": 3,
+
+    "text": "España está entre los países de Europa más…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "lluviosos"
+      },
+      {
+        "id": "B",
+        "text": "montañosos"
+      },
+      {
+        "id": "C",
+        "text": "fríos"
+      }
+    ],
+    "correctChoiceId": "B"
+  },
+  {
+    "code": 3023,
+    "task": 3,
+
+    "text": "¿En qué provincia está el parque nacional de Monfragüe?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "En Cáceres"
+      },
+      {
+        "id": "B",
+        "text": "En Murcia"
+      },
+      {
+        "id": "C",
+        "text": "En Ciudad Real"
+      }
+    ],
+    "correctChoiceId": "A"
+  },
+  {
+    "code": 3024,
+    "task": 3,
+
+    "text": "Los Picos de Europa están en…",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Andalucía"
+      },
+      {
+        "id": "B",
+        "text": "Cataluña"
+      },
+      {
+        "id": "C",
+        "text": "Asturias"
+      }
+    ],
+    "correctChoiceId": "C"
+  }
+]
