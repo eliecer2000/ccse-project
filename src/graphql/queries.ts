@@ -8,6 +8,10 @@ type GeneratedQuery<InputType, OutputType> = string & {
   __generatedQueryOutput: OutputType;
 };
 
+export const echo = /* GraphQL */ `query Echo($id: ID!) {
+  echo(id: $id)
+}
+` as GeneratedQuery<APITypes.EchoQueryVariables, APITypes.EchoQuery>;
 export const getTasks = /* GraphQL */ `query GetTasks($task: Int!) {
   getTasks(task: $task) {
     task
@@ -142,6 +146,45 @@ export const listQuestions = /* GraphQL */ `query ListQuestions(
   APITypes.ListQuestionsQueryVariables,
   APITypes.ListQuestionsQuery
 >;
+export const questionsByTaskAndCode = /* GraphQL */ `query QuestionsByTaskAndCode(
+  $task: Int!
+  $code: ModelIntKeyConditionInput
+  $sortDirection: ModelSortDirection
+  $filter: ModelQuestionsFilterInput
+  $limit: Int
+  $nextToken: String
+) {
+  questionsByTaskAndCode(
+    task: $task
+    code: $code
+    sortDirection: $sortDirection
+    filter: $filter
+    limit: $limit
+    nextToken: $nextToken
+  ) {
+    items {
+      code
+      task
+      text
+      choices {
+        id
+        text
+        __typename
+      }
+      correctChoiceId
+      topicTags
+      createdAt
+      updatedAt
+      __typename
+    }
+    nextToken
+    __typename
+  }
+}
+` as GeneratedQuery<
+  APITypes.QuestionsByTaskAndCodeQueryVariables,
+  APITypes.QuestionsByTaskAndCodeQuery
+>;
 export const getExam = /* GraphQL */ `query GetExam($id: ID!) {
   getExam(id: $id) {
     id
@@ -227,6 +270,63 @@ export const listExams = /* GraphQL */ `query ListExams(
   }
 }
 ` as GeneratedQuery<APITypes.ListExamsQueryVariables, APITypes.ListExamsQuery>;
+export const examsByIdAndUserId = /* GraphQL */ `query ExamsByIdAndUserId(
+  $id: ID!
+  $userId: ModelIDKeyConditionInput
+  $sortDirection: ModelSortDirection
+  $filter: ModelExamFilterInput
+  $limit: Int
+  $nextToken: String
+) {
+  examsByIdAndUserId(
+    id: $id
+    userId: $userId
+    sortDirection: $sortDirection
+    filter: $filter
+    limit: $limit
+    nextToken: $nextToken
+  ) {
+    items {
+      id
+      userId
+      status
+      totalSuccess
+      totalFail
+      examQuestions {
+        items {
+          code
+          examId
+          statusQuestionExam
+          responseAsk
+          question {
+            code
+            task
+            text
+            correctChoiceId
+            topicTags
+            createdAt
+            updatedAt
+            __typename
+          }
+          createdAt
+          updatedAt
+          __typename
+        }
+        nextToken
+        __typename
+      }
+      createdAt
+      updatedAt
+      __typename
+    }
+    nextToken
+    __typename
+  }
+}
+` as GeneratedQuery<
+  APITypes.ExamsByIdAndUserIdQueryVariables,
+  APITypes.ExamsByIdAndUserIdQuery
+>;
 export const getExamQuestions = /* GraphQL */ `query GetExamQuestions($code: Int!, $examId: ID!) {
   getExamQuestions(code: $code, examId: $examId) {
     code
@@ -304,102 +404,6 @@ export const listExamQuestions = /* GraphQL */ `query ListExamQuestions(
 ` as GeneratedQuery<
   APITypes.ListExamQuestionsQueryVariables,
   APITypes.ListExamQuestionsQuery
->;
-export const questionsByTaskAndCode = /* GraphQL */ `query QuestionsByTaskAndCode(
-  $task: Int!
-  $code: ModelIntKeyConditionInput
-  $sortDirection: ModelSortDirection
-  $filter: ModelQuestionsFilterInput
-  $limit: Int
-  $nextToken: String
-) {
-  questionsByTaskAndCode(
-    task: $task
-    code: $code
-    sortDirection: $sortDirection
-    filter: $filter
-    limit: $limit
-    nextToken: $nextToken
-  ) {
-    items {
-      code
-      task
-      text
-      choices {
-        id
-        text
-        __typename
-      }
-      correctChoiceId
-      topicTags
-      createdAt
-      updatedAt
-      __typename
-    }
-    nextToken
-    __typename
-  }
-}
-` as GeneratedQuery<
-  APITypes.QuestionsByTaskAndCodeQueryVariables,
-  APITypes.QuestionsByTaskAndCodeQuery
->;
-export const examsByIdAndUserId = /* GraphQL */ `query ExamsByIdAndUserId(
-  $id: ID!
-  $userId: ModelIDKeyConditionInput
-  $sortDirection: ModelSortDirection
-  $filter: ModelExamFilterInput
-  $limit: Int
-  $nextToken: String
-) {
-  examsByIdAndUserId(
-    id: $id
-    userId: $userId
-    sortDirection: $sortDirection
-    filter: $filter
-    limit: $limit
-    nextToken: $nextToken
-  ) {
-    items {
-      id
-      userId
-      status
-      totalSuccess
-      totalFail
-      examQuestions {
-        items {
-          code
-          examId
-          statusQuestionExam
-          responseAsk
-          question {
-            code
-            task
-            text
-            correctChoiceId
-            topicTags
-            createdAt
-            updatedAt
-            __typename
-          }
-          createdAt
-          updatedAt
-          __typename
-        }
-        nextToken
-        __typename
-      }
-      createdAt
-      updatedAt
-      __typename
-    }
-    nextToken
-    __typename
-  }
-}
-` as GeneratedQuery<
-  APITypes.ExamsByIdAndUserIdQueryVariables,
-  APITypes.ExamsByIdAndUserIdQuery
 >;
 export const examQuestionsByExamIdAndCode = /* GraphQL */ `query ExamQuestionsByExamIdAndCode(
   $examId: ID!

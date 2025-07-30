@@ -1,4 +1,5 @@
 /* tslint:disable */
+
 //  This file was automatically generated and should not be edited.
 
 export type CreateTasksInput = {
@@ -220,7 +221,7 @@ export type ExamQuestions = {
   code: number;
   examId: string;
   statusQuestionExam: StatusQuestionExam;
-  responseAsk: string | null;
+  responseAsk?: string | null;
   question?: Questions | null;
   createdAt: string;
   updatedAt: string;
@@ -315,6 +316,15 @@ export type ModelQuestionsFilterInput = {
   not?: ModelQuestionsFilterInput | null;
 };
 
+export type ModelIntKeyConditionInput = {
+  eq?: number | null;
+  le?: number | null;
+  lt?: number | null;
+  ge?: number | null;
+  gt?: number | null;
+  between?: Array<number | null> | null;
+};
+
 export type ModelExamFilterInput = {
   id?: ModelIDInput | null;
   userId?: ModelIDInput | null;
@@ -355,15 +365,6 @@ export type ModelExamQuestionsFilterInput = {
   and?: Array<ModelExamQuestionsFilterInput | null> | null;
   or?: Array<ModelExamQuestionsFilterInput | null> | null;
   not?: ModelExamQuestionsFilterInput | null;
-};
-
-export type ModelIntKeyConditionInput = {
-  eq?: number | null;
-  le?: number | null;
-  lt?: number | null;
-  ge?: number | null;
-  gt?: number | null;
-  between?: Array<number | null> | null;
 };
 
 export type ModelSubscriptionTasksFilterInput = {
@@ -864,6 +865,14 @@ export type DeleteExamQuestionsMutation = {
   } | null;
 };
 
+export type EchoQueryVariables = {
+  id: string;
+};
+
+export type EchoQuery = {
+  echo?: string | null;
+};
+
 export type GetTasksQueryVariables = {
   task: number;
 };
@@ -992,6 +1001,37 @@ export type ListQuestionsQuery = {
   } | null;
 };
 
+export type QuestionsByTaskAndCodeQueryVariables = {
+  task: number;
+  code?: ModelIntKeyConditionInput | null;
+  sortDirection?: ModelSortDirection | null;
+  filter?: ModelQuestionsFilterInput | null;
+  limit?: number | null;
+  nextToken?: string | null;
+};
+
+export type QuestionsByTaskAndCodeQuery = {
+  questionsByTaskAndCode?: {
+    __typename: 'ModelQuestionsConnection';
+    items: Array<{
+      __typename: 'Questions';
+      code: number;
+      task: number;
+      text: string;
+      choices: Array<{
+        __typename: 'Choice';
+        id: string;
+        text: string;
+      }>;
+      correctChoiceId: string;
+      topicTags?: Array<string> | null;
+      createdAt: string;
+      updatedAt: string;
+    } | null>;
+    nextToken?: string | null;
+  } | null;
+};
+
 export type GetExamQueryVariables = {
   id: string;
 };
@@ -1045,6 +1085,55 @@ export type ListExamsQueryVariables = {
 
 export type ListExamsQuery = {
   listExams?: {
+    __typename: 'ModelExamConnection';
+    items: Array<{
+      __typename: 'Exam';
+      id: string;
+      userId: string;
+      status: StatusExam;
+      totalSuccess: number;
+      totalFail: number;
+      examQuestions?: {
+        __typename: 'ModelExamQuestionsConnection';
+        items: Array<{
+          __typename: 'ExamQuestions';
+          code: number;
+          examId: string;
+          statusQuestionExam: StatusQuestionExam;
+          responseAsk?: string | null;
+          question?: {
+            __typename: 'Questions';
+            code: number;
+            task: number;
+            text: string;
+            correctChoiceId: string;
+            topicTags?: Array<string> | null;
+            createdAt: string;
+            updatedAt: string;
+          } | null;
+          createdAt: string;
+          updatedAt: string;
+        } | null>;
+        nextToken?: string | null;
+      } | null;
+      createdAt: string;
+      updatedAt: string;
+    } | null>;
+    nextToken?: string | null;
+  } | null;
+};
+
+export type ExamsByIdAndUserIdQueryVariables = {
+  id: string;
+  userId?: ModelIDKeyConditionInput | null;
+  sortDirection?: ModelSortDirection | null;
+  filter?: ModelExamFilterInput | null;
+  limit?: number | null;
+  nextToken?: string | null;
+};
+
+export type ExamsByIdAndUserIdQuery = {
+  examsByIdAndUserId?: {
     __typename: 'ModelExamConnection';
     items: Array<{
       __typename: 'Exam';
@@ -1147,86 +1236,6 @@ export type ListExamQuestionsQuery = {
         topicTags?: Array<string> | null;
         createdAt: string;
         updatedAt: string;
-      } | null;
-      createdAt: string;
-      updatedAt: string;
-    } | null>;
-    nextToken?: string | null;
-  } | null;
-};
-
-export type QuestionsByTaskAndCodeQueryVariables = {
-  task: number;
-  code?: ModelIntKeyConditionInput | null;
-  sortDirection?: ModelSortDirection | null;
-  filter?: ModelQuestionsFilterInput | null;
-  limit?: number | null;
-  nextToken?: string | null;
-};
-
-export type QuestionsByTaskAndCodeQuery = {
-  questionsByTaskAndCode?: {
-    __typename: 'ModelQuestionsConnection';
-    items: Array<{
-      __typename: 'Questions';
-      code: number;
-      task: number;
-      text: string;
-      choices: Array<{
-        __typename: 'Choice';
-        id: string;
-        text: string;
-      }>;
-      correctChoiceId: string;
-      topicTags?: Array<string> | null;
-      createdAt: string;
-      updatedAt: string;
-    } | null>;
-    nextToken?: string | null;
-  } | null;
-};
-
-export type ExamsByIdAndUserIdQueryVariables = {
-  id: string;
-  userId?: ModelIDKeyConditionInput | null;
-  sortDirection?: ModelSortDirection | null;
-  filter?: ModelExamFilterInput | null;
-  limit?: number | null;
-  nextToken?: string | null;
-};
-
-export type ExamsByIdAndUserIdQuery = {
-  examsByIdAndUserId?: {
-    __typename: 'ModelExamConnection';
-    items: Array<{
-      __typename: 'Exam';
-      id: string;
-      userId: string;
-      status: StatusExam;
-      totalSuccess: number;
-      totalFail: number;
-      examQuestions?: {
-        __typename: 'ModelExamQuestionsConnection';
-        items: Array<{
-          __typename: 'ExamQuestions';
-          code: number;
-          examId: string;
-          statusQuestionExam: StatusQuestionExam;
-          responseAsk?: string | null;
-          question?: {
-            __typename: 'Questions';
-            code: number;
-            task: number;
-            text: string;
-            correctChoiceId: string;
-            topicTags?: Array<string> | null;
-            createdAt: string;
-            updatedAt: string;
-          } | null;
-          createdAt: string;
-          updatedAt: string;
-        } | null>;
-        nextToken?: string | null;
       } | null;
       createdAt: string;
       updatedAt: string;

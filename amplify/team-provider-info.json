@@ -17,6 +17,12 @@
       },
       "api": {
         "ccseproject": {}
+      },
+      "function": {
+        "ccseproject75fbc5ff": {
+          "deploymentBucketName": "amplify-ccseproject-dev-66333-deployment",
+          "s3Key": "amplify-builds/ccseproject75fbc5ff-4d547a467648496b7741-build.zip"
+        }
       }
     }
   }

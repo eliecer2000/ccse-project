@@ -41,6 +41,24 @@ type ExamQuestions @model @auth(rules: [{ allow: public }]) {
   question: Questions @hasOne(fields: ["code"])
 }
 
+# type Exam @model @auth(rules: [{ allow: public }]) @ttl(ttlFieldName: "expiresAt") {
+#   id: ID! @index(name: "byTask", sortKeyFields: ["userId"])
+#   userId: ID!
+#   status: StatusExam!
+#   totalSuccess: Int!
+#   totalFail: Int!
+#   examQuestions: [ExamQuestions] @hasMany(indexName: "byExam", fields: ["id"])
+#   expiresAt: AWSTimestamp # ← epoch en segundos (no ms)
+# }
+
+# type ExamQuestions @model @auth(rules: [{ allow: public }]) @ttl(ttlFieldName: "expiresAt") {
+#   code: Int! @primaryKey(sortKeyFields: ["examId"])
+#   examId: ID! @index(name: "byExam", sortKeyFields: ["code"])
+#   statusQuestionExam: StatusQuestionExam!
+#   responseAsk: String
+#   question: Questions @hasOne(fields: ["code"])
+#   expiresAt: AWSTimestamp # ← epoch en segundos (no ms)
+# }
 enum StatusExam {
   PENDING
   SUCCESS
@@ -50,4 +68,8 @@ enum StatusQuestionExam {
   PENDING
   SUCCEED
   FAILED
+}
+
+type Query {
+  echo(id: ID!): String @function(name: "ccseproject75fbc5ff-${env}")
 }

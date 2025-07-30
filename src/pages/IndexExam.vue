@@ -69,10 +69,10 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
 import { generateClient } from 'aws-amplify/api';
-import { listExams } from '../graphql/queries';
-import { createExam, createExamQuestions } from '../graphql/mutations';
-import { type Exam, StatusExam, StatusQuestionExam } from '../API';
-import { loadingBox, codeExam } from './mixin';
+import { listExams, echo } from '../graphql/queries';
+
+import { type Exam, StatusExam } from '../API';
+import { loadingBox } from './mixin';
 import { useQuasar, uid, date } from 'quasar';
 
 const $q = useQuasar();
@@ -119,46 +119,19 @@ const init = async () => {
 
 const create = async () => {
   loadingBox(true);
-  const { data } = await client.graphql({
-    query: createExam,
+  await client.graphql({
+    query: echo,
     variables: {
-      input: {
-        userId: localValue.value as string,
-        status: StatusExam.PENDING,
-        totalSuccess: 0,
-        totalFail: 0,
-      },
+      id: localValue.value as string,
     },
-  });
-
-  if (data?.createExam?.id) {
-    $q.notify({
-      message: 'Examen creado con éxito',
-      color: 'primary',
-    });
-  }
-
-  const dataCodes = codeExam();
-  for (let index = 0; index < dataCodes.length; index++) {
-    const element = dataCodes[index];
-    await client.graphql({
-      query: createExamQuestions,
-      variables: {
-        input: {
-          code: parseInt(element ?? '0'),
-          examId: data?.createExam?.id,
-          statusQuestionExam: StatusQuestionExam.PENDING,
-        },
-      },
-    });
-  }
-  $q.notify({
-    message: 'Preguntas del Examen creado con éxito',
-    color: 'primary',
   });
 
   await init();
   loadingBox(false);
+  $q.notify({
+    message: 'Examen creado con éxito',
+    color: 'primary',
+  });
 };
 
 onMounted(async () => {
